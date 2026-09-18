@@ -1,0 +1,1004 @@
+Order_ID,Order_Date,Customer_ID,Customer_Age,Customer_Segment,Region,Sales_Channel,Category,Product,Quantity,Unit_Price,Discount,Sales,Cost,Profit,Payment_Method
+ORD00001,2025-01-21,CUST0100,40.0,Small Business,South,Distributor,Clothing,Sneakers,8,65.68,0.15,446.62,350.09,96.53,UPI
+ORD00002,2025-07-11,CUST0236,50.0,Consumer,West,Retail Store,Office Supplies,Folders,6,19.49,0.02,114.6,79.27,35.33,Bank Transfer
+ORD00003,2025-07-07,CUST0167,20.0,Small Business,East,Distributor,Electronics,Laptop,10,1024.77,0.1,9222.93,6766.71,2456.22,Cash
+ORD00004,2025-09-22,CUST0264,19.0,Consumer,South,Distributor,Furniture,Cabinet,2,571.1,0.02,1119.36,822.15,297.21,Bank Transfer
+ORD00005,2025-01-02,CUST0202,46.0,Corporate,South,Retail Store,Office Supplies,Notebook,8,6.11,0.1,43.99,29.54,14.45,Debit Card
+ORD00006,2025-07-27,CUST0188,64.0,Corporate,Central,Retail Store,Clothing,Shirt,8,28.39,0.15,193.05,156.49,36.56,Cash
+ORD00007,2025-11-23,CUST0163,61.0,Consumer,North,Distributor,Clothing,Sneakers,1,59.73,0.0,59.73,44.25,15.48,UPI
+ORD00008,2025-02-10,CUST0062,26.0,Small Business,West,Retail Store,Office Supplies,Notebook,10,10.27,0.02,100.65,57.95,42.7,Bank Transfer
+ORD00009,2025-02-04,CUST0255,54.0,Small Business,North,Online,Home & Kitchen,Lamp,6,96.87,0.05,552.16,411.29,140.87,UPI
+ORD00010,2025-06-28,CUST0231,49.0,Consumer,North,Retail Store,Office Supplies,Notebook,10,11.53,0.02,112.99,66.4,46.6,Bank Transfer
+ORD00011,2025-08-31,CUST0134,59.0,Corporate,West,Retail Store,Home & Kitchen,Lamp,7,46.4,0.05,308.56,222.48,86.08,Cash
+ORD00012,2025-11-27,CUST0283,45.0,Small Business,South,Distributor,Clothing,Shirt,4,41.38,0.2,132.42,105.25,27.17,Credit Card
+ORD00013,2025-05-17,CUST0160,59.0,Consumer,Central,Distributor,Electronics,Keyboard,3,65.83,0.2,157.99,94.07,63.92,Bank Transfer
+ORD00014,2025-02-21,CUST0113,56.0,Corporate,West,Distributor,Electronics,Keyboard,1,67.27,0.02,65.92,41.61,24.31,Debit Card
+ORD00015,2025-02-23,CUST0172,18.0,Consumer,Central,Retail Store,Electronics,Monitor,2,424.3,0.1,763.74,449.94,313.8,UPI
+ORD00016,2025-09-12,CUST0097,23.0,Corporate,Central,Distributor,Furniture,Cabinet,8,140.43,0.05,1067.27,613.02,454.25,UPI
+ORD00017,2025-09-09,CUST0199,43.0,Small Business,East,Distributor,Electronics,Keyboard,3,86.07,0.1,232.39,142.03,90.36,UPI
+ORD00018,2025-12-26,CUST0298,45.0,Small Business,North,Online,Clothing,T-Shirt,7,46.09,0.02,316.18,191.75,124.43,Credit Card
+ORD00019,2025-03-01,CUST0009,18.0,Corporate,North,Online,Office Supplies,Stapler,9,8.5,0.1,68.85,54.61,14.24,Bank Transfer
+ORD00020,2025-06-01,CUST0254,25.0,Small Business,North,Retail Store,Electronics,Monitor,3,465.16,0.1,1255.93,917.62,338.31,Bank Transfer
+ORD00021,2025-12-04,CUST0068,52.0,Corporate,,Online,Office Supplies,Notebook,2,10.96,0.2,17.54,10.48,7.06,Cash
+ORD00022,2025-05-08,CUST0283,39.0,Small Business,North,Distributor,Electronics,Headphones,8,78.28,0.05,594.93,470.5,124.43,Cash
+ORD00023,2025-11-13,CUST0006,34.0,Small Business,East,Retail Store,Office Supplies,Printer Paper,1,13.75,0.1,12.38,9.99,2.38,Bank Transfer
+ORD00024,2025-10-29,CUST0253,52.0,Small Business,Central,Online,Office Supplies,Stapler,8,5.31,0.15,36.11,20.59,15.51,Bank Transfer
+ORD00025,2025-08-11,CUST0127,57.0,Small Business,South,Distributor,Home & Kitchen,Blender,2,84.37,0.0,168.74,137.91,30.83,Debit Card
+ORD00026,2025-10-26,CUST0013,43.0,Corporate,Central,Retail Store,Office Supplies,Printer Paper,1,26.93,0.0,26.93,21.12,5.81,UPI
+ORD00027,2025-01-20,CUST0092,33.0,Corporate,North,Distributor,Clothing,Jeans,4,30.47,0.15,103.6,66.43,37.16,Bank Transfer
+ORD00028,2025-06-02,CUST0180,39.0,Small Business,South,Retail Store,Furniture,Desk,6,435.01,0.05,2479.56,1384.18,1095.38,Debit Card
+ORD00029,2025-03-01,CUST0047,56.0,Consumer,West,Retail Store,Furniture,Bookshelf,1,120.66,0.15,102.56,57.84,44.72,Bank Transfer
+ORD00030,2025-04-16,CUST0229,36.0,Consumer,East,Retail Store,Office Supplies,Stapler,2,7.65,0.1,13.77,7.87,5.9,Bank Transfer
+ORD00031,2025-05-09,CUST0089,18.0,Corporate,South,Retail Store,Furniture,Meeting Table,9,372.79,0.1,3019.6,1737.31,1282.29,Debit Card
+ORD00032,2025-10-05,CUST0086,20.0,Small Business,Central,Retail Store,Home & Kitchen,Storage Box,7,54.68,0.15,325.35,210.21,115.14,Bank Transfer
+ORD00033,2025-04-04,CUST0039,29.0,Consumer,West,Retail Store,Electronics,Headphones,5,61.34,0.0,306.7,209.4,97.3,Debit Card
+ORD00034,2025-01-10,CUST0096,48.0,Corporate,Central,Retail Store,Clothing,T-Shirt,5,35.91,0.02,175.96,141.12,34.83,Debit Card
+ORD00035,2025-06-09,CUST0179,52.0,Corporate,East,Online,Electronics,Headphones,8,214.67,0.02,1683.01,1133.89,549.12,Bank Transfer
+ORD00036,2025-06-17,CUST0253,61.0,Small Business,South,Online,Office Supplies,Folders,1,13.64,0.0,13.64,8.29,5.35,Cash
+ORD00037,2025-09-21,CUST0105,27.0,Corporate,Central,Retail Store,Office Supplies,Printer Paper,1,22.08,0.02,21.64,16.66,4.98,Debit Card
+ORD00038,2025-08-05,CUST0192,53.0,Consumer,Central,Online,Clothing,Jeans,8,92.71,0.1,667.51,502.41,165.1,Debit Card
+ORD00039,2025-04-06,CUST0273,30.0,Consumer,Central,Distributor,Office Supplies,Notebook,4,11.78,0.02,46.18,26.68,19.49,Credit Card
+ORD00040,2025-07-06,CUST0076,53.0,Consumer,East,Online,Electronics,Keyboard,6,127.44,0.15,649.94,516.35,133.59,Bank Transfer
+ORD00041,2025-05-24,CUST0053,52.0,Consumer,Central,Online,Electronics,Keyboard,4,143.51,0.05,545.34,381.46,163.87,Bank Transfer
+ORD00042,2025-08-11,CUST0239,52.0,Consumer,South,Distributor,Electronics,Headphones,10,281.35,0.2,2250.8,1666.89,583.91,Cash
+ORD00043,2025-08-18,CUST0005,26.0,Corporate,Central,Distributor,Clothing,T-Shirt,1,49.27,0.15,41.88,31.02,10.86,Debit Card
+ORD00044,2025-11-17,CUST0070,24.0,Consumer,West,Online,Home & Kitchen,Storage Box,8,26.33,0.15,179.04,134.89,44.15,Credit Card
+ORD00045,2025-07-21,CUST0220,56.0,Small Business,South,Online,Clothing,Jacket,6,166.57,0.05,949.45,525.11,424.34,UPI
+ORD00046,2025-12-14,CUST0058,42.0,Small Business,North,Retail Store,Furniture,Cabinet,9,159.41,0.0,1434.69,958.1,476.59,Credit Card
+ORD00047,2025-08-01,CUST0047,53.0,Consumer,East,Distributor,Clothing,Sneakers,5,175.78,0.2,703.12,570.73,132.39,UPI
+ORD00048,2025-02-23,CUST0156,28.0,Small Business,East,Retail Store,Electronics,Laptop,1,1195.75,0.15,1016.39,819.83,196.56,Bank Transfer
+ORD00049,2025-11-12,CUST0145,58.0,Consumer,South,Distributor,Home & Kitchen,Coffee Maker,10,97.03,0.02,950.89,702.24,248.66,Bank Transfer
+ORD00050,2025-03-23,CUST0286,64.0,Consumer,East,Retail Store,Electronics,Laptop,3,911.21,0.15,2323.59,1329.89,993.7,Credit Card
+ORD00051,2025-03-06,CUST0283,28.0,Small Business,South,Retail Store,Furniture,Bookshelf,7,94.47,0.0,661.29,431.72,229.57,Cash
+ORD00052,2025-11-07,CUST0023,22.0,Consumer,West,Retail Store,Electronics,Headphones,9,47.15,0.05,403.13,321.12,82.02,Cash
+ORD00053,2025-05-25,CUST0260,26.0,Corporate,Central,Distributor,Home & Kitchen,Storage Box,10,76.13,0.05,723.23,451.43,271.81,Credit Card
+ORD00054,2025-04-05,CUST0054,51.0,Corporate,South,Distributor,Electronics,Laptop,2,1257.0,0.1,2262.6,1432.45,830.15,UPI
+ORD00055,2025-04-22,CUST0192,31.0,Consumer,Central,Distributor,Clothing,Sneakers,9,52.38,0.0,471.42,286.39,185.03,Debit Card
+ORD00056,2025-10-13,CUST0030,51.0,Small Business,East,Online,Clothing,Jeans,2,61.55,0.02,120.64,83.09,37.55,Bank Transfer
+ORD00057,2025-07-03,CUST0053,34.0,Corporate,North,Online,Furniture,Bookshelf,4,303.25,0.02,1188.74,968.36,220.38,Bank Transfer
+ORD00058,2025-05-31,CUST0195,33.0,Corporate,East,Online,Furniture,Meeting Table,3,488.22,0.0,1464.66,1160.21,304.45,Bank Transfer
+ORD00059,2025-10-04,CUST0001,45.0,Corporate,Central,Online,Office Supplies,Folders,10,19.54,0.05,185.63,103.69,81.94,Debit Card
+ORD00060,2025-03-19,CUST0121,44.0,Consumer,South,Retail Store,Home & Kitchen,Blender,2,89.84,0.0,179.68,137.61,42.07,Credit Card
+ORD00061,2025-01-08,CUST0154,32.0,Small Business,North,Distributor,Office Supplies,Folders,4,3.04,0.0,12.16,8.43,3.73,Debit Card
+ORD00062,2025-12-29,CUST0015,35.0,Consumer,West,Retail Store,Office Supplies,Pens,7,14.84,0.2,83.1,57.66,25.45,Debit Card
+ORD00063,2025-09-30,CUST0025,61.0,Corporate,South,Online,Electronics,Headphones,7,79.22,0.0,554.54,356.34,198.2,Credit Card
+ORD00064,2025-04-21,CUST0101,25.0,Small Business,South,Distributor,Clothing,Jeans,2,101.03,0.1,181.85,118.62,63.24,Credit Card
+ORD00065,2025-12-31,CUST0070,50.0,Consumer,Central,Retail Store,Clothing,Jeans,8,84.68,0.05,643.57,393.12,250.45,Cash
+ORD00066,2025-09-04,CUST0220,48.0,Small Business,East,Distributor,Clothing,Jacket,8,63.18,0.0,505.44,400.35,105.09,Cash
+ORD00067,2025-04-04,CUST0300,19.0,Corporate,East,Retail Store,Office Supplies,Stapler,6,5.11,0.0,30.66,19.18,11.48,UPI
+ORD00068,2025-08-13,CUST0038,29.0,Consumer,West,Retail Store,Home & Kitchen,Coffee Maker,3,130.92,0.1,353.48,267.69,85.79,Credit Card
+ORD00069,2025-06-27,CUST0130,40.0,Consumer,South,Retail Store,Home & Kitchen,Lamp,3,141.16,0.0,423.48,269.77,153.71,Debit Card
+ORD00070,2025-09-22,CUST0069,41.0,Small Business,East,Retail Store,Clothing,T-Shirt,9,21.25,0.0,191.25,110.7,80.55,UPI
+ORD00071,2025-05-17,CUST0267,52.0,Small Business,South,Retail Store,Clothing,Shirt,5,55.64,0.05,264.29,148.79,115.5,Credit Card
+ORD00072,2025-06-14,CUST0237,31.0,Small Business,Central,Retail Store,Electronics,Headphones,3,84.44,0.15,215.32,139.29,76.03,Debit Card
+ORD00073,2025-10-15,CUST0153,55.0,Consumer,East,Distributor,Furniture,Office Chair,8,373.19,0.2,2388.42,1596.56,791.85,Credit Card
+ORD00074,2025-11-05,CUST0042,23.0,Small Business,East,Distributor,Electronics,Laptop,2,891.48,0.2,1426.37,1065.85,360.52,UPI
+ORD00075,2025-06-06,CUST0196,54.0,Consumer,North,Distributor,Clothing,Sneakers,7,109.36,0.05,727.24,428.09,299.16,UPI
+ORD00076,2025-04-28,CUST0184,64.0,,Central,Online,Furniture,Desk,10,471.09,0.0,4710.9,2753.15,1957.75,Bank Transfer
+ORD00077,2025-06-22,CUST0282,48.0,Small Business,South,Distributor,Home & Kitchen,Storage Box,4,44.05,0.1,158.58,111.43,47.15,UPI
+ORD00078,2025-05-14,CUST0210,60.0,Corporate,South,Retail Store,Office Supplies,Pens,10,8.22,0.2,65.76,46.58,19.18,Bank Transfer
+ORD00079,2025-05-13,CUST0051,59.0,Small Business,Central,Distributor,Electronics,Laptop,4,518.11,0.1,1865.2,1331.4,533.79,Credit Card
+ORD00080,2025-10-29,CUST0001,43.0,Consumer,Central,Retail Store,Home & Kitchen,Blender,7,169.58,0.0,1187.06,921.3,265.76,Bank Transfer
+ORD00081,2025-07-21,CUST0025,43.0,Consumer,West,Distributor,Office Supplies,Folders,5,9.45,0.0,47.25,31.07,16.18,Credit Card
+ORD00082,2025-12-13,CUST0025,61.0,Small Business,North,Distributor,Furniture,Bookshelf,7,375.35,0.02,2574.9,1588.77,986.13,UPI
+ORD00083,2025-03-04,CUST0084,43.0,Corporate,East,Retail Store,Clothing,Sneakers,1,168.08,0.15,142.87,104.17,38.7,Bank Transfer
+ORD00084,2025-03-04,CUST0211,24.0,Consumer,Central,Online,Electronics,Laptop,6,1057.31,0.1,5709.47,3752.7,1956.77,Credit Card
+ORD00085,2025-01-18,CUST0113,64.0,Corporate,North,Retail Store,Home & Kitchen,Blender,8,45.12,0.05,342.91,238.08,104.83,Debit Card
+ORD00086,2025-02-24,CUST0087,27.0,Corporate,East,Retail Store,Furniture,Bookshelf,1,129.68,0.15,110.23,76.3,33.93,UPI
+ORD00087,2025-11-09,CUST0051,25.0,Small Business,East,Distributor,Clothing,Jeans,8,108.03,0.0,864.24,608.21,256.03,Credit Card
+ORD00088,2025-04-06,CUST0161,38.0,Consumer,East,Distributor,Electronics,Keyboard,2,50.96,0.05,96.82,69.81,27.02,Debit Card
+ORD00089,2025-10-12,CUST0011,19.0,Corporate,West,Distributor,Home & Kitchen,Lamp,3,35.96,0.1,97.09,69.78,27.31,Credit Card
+ORD00090,2025-01-20,CUST0280,55.0,Consumer,Central,Retail Store,Furniture,Desk,7,385.99,0.1,2431.74,1902.81,528.93,Credit Card
+ORD00091,2025-04-25,CUST0201,26.0,Corporate,North,Online,Electronics,Smartphone,7,765.78,0.0,5360.46,3530.87,1829.59,Debit Card
+ORD00092,2025-03-16,CUST0017,59.0,Consumer,South,Online,Office Supplies,Stapler,2,7.65,0.15,13.0,8.12,4.89,Bank Transfer
+ORD00093,2025-12-28,CUST0173,48.0,Small Business,Central,Retail Store,Home & Kitchen,Blender,7,109.65,0.15,652.42,464.61,187.81,UPI
+ORD00094,2025-03-05,CUST0282,60.0,Corporate,South,Distributor,Electronics,Smartphone,10,604.38,0.2,4835.04,2777.2,2057.84,Credit Card
+ORD00095,2025-07-06,CUST0239,51.0,Corporate,East,Online,Home & Kitchen,Storage Box,4,68.6,0.0,274.4,170.92,103.48,Cash
+ORD00096,2025-12-31,CUST0201,26.0,Corporate,East,Retail Store,Clothing,Jacket,1,139.26,0.2,111.41,64.48,46.93,Debit Card
+ORD00097,2025-01-25,CUST0012,54.0,Small Business,East,Distributor,Electronics,Laptop,8,995.49,0.02,7804.64,4866.03,2938.61,Bank Transfer
+ORD00098,2025-01-17,CUST0264,64.0,Consumer,South,Retail Store,Office Supplies,Folders,1,4.56,0.15,3.88,3.13,0.74,Bank Transfer
+ORD00099,2025-07-19,CUST0026,42.0,Corporate,North,Distributor,Home & Kitchen,Blender,6,132.23,0.2,634.7,467.88,166.83,Bank Transfer
+ORD00100,2025-09-07,CUST0082,26.0,Small Business,Central,Retail Store,Furniture,Office Chair,5,172.23,0.2,688.92,457.36,231.56,UPI
+ORD00101,2025-01-14,CUST0183,51.0,Consumer,East,Online,Clothing,Jacket,10,97.87,0.0,978.7,678.41,300.29,UPI
+ORD00102,2025-07-29,CUST0227,59.0,Consumer,North,Retail Store,Clothing,T-Shirt,6,39.23,0.0,235.38,155.99,79.39,Bank Transfer
+ORD00103,2025-05-21,CUST0245,56.0,Small Business,South,Online,Furniture,Desk,7,163.83,0.15,974.79,738.05,236.74,Bank Transfer
+ORD00104,2025-12-25,CUST0158,18.0,Consumer,West,Distributor,Clothing,T-Shirt,9,41.13,0.02,362.77,245.29,117.47,Credit Card
+ORD00105,2025-07-12,CUST0140,32.0,Corporate,Central,Distributor,Furniture,Cabinet,5,457.78,0.0,2288.9,1496.41,792.49,Credit Card
+ORD00106,2025-07-17,CUST0260,30.0,Corporate,East,Online,Office Supplies,Printer Paper,5,24.95,0.05,118.51,88.97,29.54,Debit Card
+ORD00107,2025-08-31,CUST0241,27.0,Corporate,Central,Retail Store,Office Supplies,Stapler,6,21.76,0.15,110.98,72.55,38.43,UPI
+ORD00108,2025-02-23,CUST0178,52.0,Consumer,North,Retail Store,Furniture,Bookshelf,5,344.39,0.15,1463.66,1012.5,451.16,Bank Transfer
+ORD00109,2025-09-26,CUST0267,42.0,Small Business,Central,Retail Store,Furniture,Office Chair,3,161.56,0.2,387.74,303.31,84.44,Credit Card
+ORD00110,2025-08-14,CUST0226,26.0,Corporate,West,Online,Electronics,Monitor,9,272.83,0.05,2332.7,1746.04,586.66,Credit Card
+ORD00111,2025-02-06,CUST0040,45.0,Consumer,West,Online,Clothing,Jacket,10,158.51,0.02,1553.4,1211.38,342.02,Cash
+ORD00112,2025-02-09,CUST0168,62.0,Consumer,East,Retail Store,Home & Kitchen,Storage Box,3,73.46,0.02,215.97,149.18,66.79,Credit Card
+ORD00113,2025-12-29,CUST0188,59.0,Consumer,Central,Distributor,Clothing,T-Shirt,9,22.08,0.15,168.91,124.78,44.13,Bank Transfer
+ORD00114,2025-01-31,CUST0082,49.0,Corporate,South,Online,Home & Kitchen,Lamp,9,144.97,0.05,1239.49,930.55,308.95,UPI
+ORD00115,2025-08-12,CUST0223,44.0,Corporate,Central,Online,Clothing,Jeans,7,104.89,0.02,719.55,518.5,201.05,Credit Card
+ORD00116,2025-03-15,CUST0278,45.0,Corporate,North,Distributor,Furniture,Cabinet,3,104.54,0.2,250.9,201.13,49.77,Bank Transfer
+ORD00117,2025-08-07,CUST0120,34.0,Corporate,North,Retail Store,Clothing,Shirt,2,76.59,0.1,137.86,88.7,49.16,Debit Card
+ORD00118,2025-08-15,CUST0079,29.0,Consumer,West,Distributor,Office Supplies,Printer Paper,4,26.79,0.05,101.8,78.57,23.23,Cash
+ORD00119,2025-08-14,CUST0285,52.0,Consumer,Central,Online,Office Supplies,Pens,10,14.3,0.02,140.14,83.27,56.87,Cash
+ORD00120,2025-03-25,CUST0092,20.0,Small Business,East,Retail Store,Home & Kitchen,Lamp,2,48.7,0.2,77.92,46.03,31.89,Credit Card
+ORD00121,2025-03-25,CUST0015,22.0,Consumer,East,Distributor,Home & Kitchen,Storage Box,5,73.67,0.05,349.93,231.14,118.8,UPI
+ORD00122,2025-10-07,CUST0145,32.0,Corporate,West,Distributor,Furniture,Meeting Table,1,480.32,0.0,480.32,389.74,90.58,Bank Transfer
+ORD00123,2025-07-18,CUST0046,61.0,Consumer,East,Retail Store,Home & Kitchen,Storage Box,2,20.76,0.1,37.37,26.77,10.59,Cash
+ORD00124,2025-01-09,CUST0072,39.0,Small Business,North,Online,Electronics,Laptop,4,1107.31,0.1,3986.32,2827.78,1158.54,Cash
+ORD00125,2025-11-16,CUST0102,64.0,Corporate,South,Online,Office Supplies,Folders,5,5.54,0.02,27.15,20.48,6.67,UPI
+ORD00126,2025-03-17,CUST0242,49.0,Corporate,North,Online,Electronics,Monitor,8,366.23,0.0,2929.84,2054.13,875.71,Bank Transfer
+ORD00127,2025-03-18,CUST0174,39.0,Corporate,West,Retail Store,Clothing,T-Shirt,1,38.3,0.0,38.3,26.93,11.37,Debit Card
+ORD00128,2025-11-01,CUST0073,20.0,Consumer,East,Retail Store,Furniture,Desk,10,683.94,0.1,6155.46,4374.01,1781.45,UPI
+ORD00129,2025-12-14,CUST0084,64.0,Corporate,West,Distributor,Electronics,Smartphone,8,1135.2,0.02,8899.97,5087.5,3812.47,UPI
+ORD00130,2025-07-07,CUST0012,28.0,Corporate,South,Retail Store,Clothing,Jeans,3,100.54,0.0,301.62,214.21,87.41,Debit Card
+ORD00131,2025-02-24,CUST0288,25.0,Consumer,West,Distributor,Home & Kitchen,Blender,10,162.05,0.05,1539.48,1026.96,512.51,Cash
+ORD00132,2025-05-30,CUST0093,20.0,Consumer,Central,Retail Store,Office Supplies,Stapler,2,16.11,0.05,30.61,20.17,10.44,Bank Transfer
+ORD00133,2025-01-24,CUST0152,21.0,Consumer,West,Retail Store,Electronics,Keyboard,5,42.65,0.02,208.98,170.67,38.31,Bank Transfer
+ORD00134,2025-09-07,CUST0262,53.0,Corporate,Central,Distributor,Furniture,Office Chair,9,305.6,0.1,2475.36,1963.43,511.93,Debit Card
+ORD00135,2025-09-25,CUST0282,35.0,Consumer,East,Distributor,Furniture,Bookshelf,6,269.55,0.15,1374.71,843.61,531.1,Cash
+ORD00136,2025-11-21,CUST0145,64.0,Consumer,Central,Retail Store,Clothing,Jeans,2,51.38,0.15,87.35,50.29,37.06,Credit Card
+ORD00137,2025-08-17,CUST0287,18.0,Small Business,Central,Online,Office Supplies,Notebook,2,14.63,0.05,27.8,17.07,10.73,Bank Transfer
+ORD00138,2025-09-23,CUST0171,58.0,Corporate,West,Online,Office Supplies,Printer Paper,10,6.84,0.15,58.14,35.88,22.26,Credit Card
+ORD00139,2025-10-11,CUST0120,54.0,Small Business,North,Online,Clothing,T-Shirt,6,26.36,0.1,142.34,108.34,34.01,Cash
+ORD00140,2025-09-08,CUST0020,31.0,Corporate,Central,Online,Clothing,Shirt,6,89.82,0.1,485.03,336.33,148.7,Debit Card
+ORD00141,2025-09-02,CUST0276,50.0,Consumer,East,Distributor,Furniture,Meeting Table,3,876.0,0.2,2102.4,1179.92,922.48,Credit Card
+ORD00142,2025-11-02,CUST0294,56.0,Consumer,Central,Retail Store,Home & Kitchen,Coffee Maker,2,291.28,0.0,582.56,374.3,208.26,UPI
+ORD00143,2025-01-08,CUST0086,18.0,Consumer,South,Retail Store,Clothing,Sneakers,2,60.1,0.02,117.8,92.4,25.4,Cash
+ORD00144,2025-04-24,CUST0289,43.0,Consumer,South,Distributor,Furniture,Office Chair,10,435.25,0.05,4134.88,3313.51,821.37,Credit Card
+ORD00145,2025-12-27,CUST0063,45.0,Corporate,South,Retail Store,Electronics,Monitor,5,573.39,0.15,2436.91,1738.34,698.57,Debit Card
+ORD00146,2025-03-18,CUST0132,21.0,Small Business,North,Online,Electronics,Laptop,9,,0.15,6937.86,5249.2,1688.66,Debit Card
+ORD00147,2025-12-31,CUST0076,41.0,Consumer,East,Online,Office Supplies,Printer Paper,9,24.06,0.05,205.71,131.17,74.54,Credit Card
+ORD00148,2025-11-01,CUST0110,61.0,Small Business,North,Distributor,Furniture,Meeting Table,9,642.38,0.0,5781.42,4121.75,1659.67,Debit Card
+ORD00149,2025-10-09,CUST0012,45.0,Corporate,South,Online,Furniture,Desk,3,451.27,0.15,1150.74,738.93,411.81,Cash
+ORD00150,2025-12-09,CUST0117,60.0,Small Business,South,Online,Home & Kitchen,Coffee Maker,4,181.66,0.05,690.31,416.16,274.15,Cash
+ORD00151,2025-10-04,CUST0052,36.0,Corporate,Central,Retail Store,Clothing,T-Shirt,3,44.46,0.1,120.04,81.77,38.27,Debit Card
+ORD00152,2025-06-07,CUST0263,30.0,Corporate,South,Retail Store,Office Supplies,Folders,3,16.65,0.02,48.95,28.53,20.42,Bank Transfer
+ORD00153,2025-10-25,CUST0141,24.0,Corporate,West,Online,Clothing,Jeans,7,101.98,0.0,713.86,514.66,199.2,Credit Card
+ORD00154,2025-05-01,CUST0068,25.0,Corporate,Central,Retail Store,Home & Kitchen,Cookware Set,9,95.62,0.02,843.37,522.07,321.3,Credit Card
+ORD00155,2025-12-11,CUST0069,53.0,Small Business,South,Online,Furniture,Bookshelf,7,352.38,0.02,2417.33,1606.23,811.1,Debit Card
+ORD00156,2025-05-30,CUST0138,52.0,Small Business,Central,Distributor,Electronics,Monitor,1,541.17,0.15,459.99,320.9,139.1,Bank Transfer
+ORD00157,2025-11-16,CUST0125,38.0,Small Business,East,Distributor,Electronics,Headphones,9,190.51,0.02,1680.3,1125.02,555.28,Debit Card
+ORD00158,2025-10-29,CUST0036,55.0,Corporate,East,Distributor,Electronics,Laptop,8,515.82,0.1,3713.9,2817.4,896.51,Debit Card
+ORD00159,2025-03-11,CUST0005,21.0,Small Business,North,Online,Home & Kitchen,Blender,9,123.41,0.0,1110.69,860.34,250.35,Cash
+ORD00160,2025-07-19,CUST0130,61.0,Small Business,South,Retail Store,Clothing,Jacket,8,146.03,0.2,934.59,598.06,336.54,Cash
+ORD00161,2025-10-13,CUST0287,61.0,Corporate,West,Online,Clothing,Jeans,3,62.66,0.02,184.22,110.04,74.18,Debit Card
+ORD00162,2025-05-25,CUST0104,33.0,Small Business,West,Distributor,Electronics,Smartphone,9,296.68,0.1,2403.11,1580.8,822.31,Cash
+ORD00163,2025-10-13,CUST0272,39.0,Corporate,Central,Distributor,Home & Kitchen,Cookware Set,1,235.4,0.0,235.4,184.43,50.97,Debit Card
+ORD00164,2025-05-31,CUST0249,19.0,Consumer,South,Online,Clothing,Shirt,4,78.16,0.0,312.64,201.19,111.45,Credit Card
+ORD00165,2025-06-03,CUST0101,23.0,Corporate,West,Retail Store,Electronics,Laptop,4,805.52,0.2,2577.66,1763.59,814.08,UPI
+ORD00166,2025-06-15,CUST0067,52.0,Consumer,South,Retail Store,Clothing,Jeans,1,75.1,0.02,73.6,54.81,18.78,Debit Card
+ORD00167,2025-12-13,CUST0025,35.0,Small Business,South,Retail Store,Clothing,T-Shirt,3,29.51,0.02,86.76,62.73,24.03,Bank Transfer
+ORD00168,2025-04-05,CUST0025,33.0,Corporate,North,Distributor,Furniture,Office Chair,1,291.74,0.1,262.57,211.96,50.61,Cash
+ORD00169,2025-01-25,CUST0020,29.0,Consumer,West,Online,Home & Kitchen,Storage Box,5,18.52,0.02,90.75,72.86,17.89,Bank Transfer
+ORD00170,2025-02-12,CUST0266,36.0,Small Business,South,Online,Furniture,Meeting Table,6,395.1,0.15,2015.01,1533.03,481.98,UPI
+ORD00171,2025-02-25,CUST0156,36.0,Small Business,North,Distributor,Electronics,Smartphone,2,684.6,0.15,1163.82,663.55,500.27,Credit Card
+ORD00172,2025-04-11,CUST0063,53.0,Consumer,West,Retail Store,Office Supplies,Stapler,4,17.36,0.0,69.44,46.18,23.26,Bank Transfer
+ORD00173,2025-04-02,CUST0062,39.0,Consumer,Central,Retail Store,Home & Kitchen,Cookware Set,3,130.96,0.05,373.24,230.33,142.91,Cash
+ORD00174,2025-11-10,CUST0213,30.0,Consumer,Central,Retail Store,Office Supplies,Folders,5,3.33,0.02,16.32,10.04,6.28,Cash
+ORD00175,2025-07-07,CUST0196,38.0,Small Business,East,Distributor,Home & Kitchen,Coffee Maker,4,66.15,0.0,264.6,156.19,108.41,Bank Transfer
+ORD00176,2025-08-21,CUST0113,55.0,Consumer,Central,Online,Furniture,Cabinet,2,221.74,0.05,421.31,340.49,80.81,Debit Card
+ORD00177,2025-05-10,CUST0232,50.0,Consumer,West,Retail Store,Electronics,Laptop,9,1158.69,0.0,10428.21,5843.71,4584.5,Debit Card
+ORD00178,2025-08-02,CUST0069,34.0,Small Business,North,Distributor,Home & Kitchen,Cookware Set,2,177.44,0.05,337.14,232.61,104.52,Bank Transfer
+ORD00179,2025-07-19,CUST0152,60.0,Small Business,North,Online,Clothing,T-Shirt,8,34.95,0.15,237.66,182.18,55.48,Credit Card
+ORD00180,2025-08-16,CUST0261,36.0,Small Business,East,Distributor,Electronics,Headphones,8,167.32,0.02,1311.79,783.15,528.64,UPI
+ORD00181,2025-11-25,CUST0105,20.0,Small Business,South,Retail Store,Home & Kitchen,Coffee Maker,1,55.24,0.0,55.24,34.27,20.97,Credit Card
+ORD00182,2025-05-29,CUST0160,57.0,Small Business,West,Retail Store,Electronics,Laptop,2,1030.3,0.02,2019.39,1375.66,643.73,Debit Card
+ORD00183,2025-07-02,CUST0114,57.0,Consumer,North,Retail Store,Clothing,Jeans,1,41.53,0.02,40.7,27.21,13.49,UPI
+ORD00184,2025-04-23,CUST0149,49.0,Small Business,Central,Online,Clothing,Shirt,3,34.11,0.2,81.86,57.05,24.81,Credit Card
+ORD00185,2025-05-15,CUST0285,39.0,Small Business,West,Online,Home & Kitchen,Storage Box,8,78.49,0.2,502.34,403.42,98.91,UPI
+ORD00186,2025-10-10,CUST0278,32.0,Small Business,South,Distributor,Home & Kitchen,Coffee Maker,5,76.99,0.1,346.46,269.19,77.26,UPI
+ORD00187,2025-07-10,CUST0229,46.0,Small Business,East,Distributor,Office Supplies,Folders,8,13.04,0.05,99.1,77.98,21.13,Bank Transfer
+ORD00188,2025-09-18,CUST0010,21.0,Consumer,East,Retail Store,Furniture,Desk,1,156.07,0.1,140.46,102.19,38.27,UPI
+ORD00189,2025-03-27,CUST0020,29.0,Corporate,South,Retail Store,Home & Kitchen,Lamp,9,44.44,0.15,339.97,205.57,134.4,Credit Card
+ORD00190,2025-04-11,CUST0227,21.0,Small Business,South,Retail Store,Office Supplies,Pens,6,17.16,0.05,97.81,77.2,20.61,Bank Transfer
+ORD00191,2025-07-21,CUST0004,62.0,Consumer,West,Online,Furniture,Meeting Table,6,896.74,0.15,4573.37,3241.67,1331.7,Bank Transfer
+ORD00192,2025-09-11,CUST0211,35.0,Corporate,South,Distributor,Home & Kitchen,Lamp,10,28.43,0.1,255.87,142.31,113.56,UPI
+ORD00193,2025-12-22,CUST0116,53.0,Consumer,East,Distributor,Home & Kitchen,Cookware Set,6,206.98,0.15,1055.6,647.8,407.8,Credit Card
+ORD00194,2025-04-28,CUST0198,34.0,Consumer,Central,Distributor,Electronics,Monitor,9,510.62,0.1,4136.02,2406.96,1729.06,Bank Transfer
+ORD00195,2025-03-02,CUST0254,20.0,Corporate,South,Distributor,Clothing,Jacket,10,161.0,0.15,1368.5,761.61,606.89,Cash
+ORD00196,2025-02-04,CUST0074,22.0,Small Business,South,Online,Home & Kitchen,Blender,3,170.15,0.15,433.88,294.97,138.91,Cash
+ORD00197,2025-08-19,CUST0174,18.0,Small Business,South,Retail Store,Home & Kitchen,Cookware Set,4,76.7,0.2,245.44,138.79,106.65,Credit Card
+ORD00198,2025-02-05,CUST0220,41.0,Corporate,Central,Retail Store,Clothing,Shirt,4,35.15,0.0,140.6,88.04,52.56,Bank Transfer
+ORD00199,2025-04-16,CUST0184,23.0,Consumer,North,Online,Office Supplies,Stapler,10,20.74,0.2,165.92,113.1,52.82,Bank Transfer
+ORD00200,2025-07-15,CUST0143,44.0,Consumer,South,Distributor,Office Supplies,Stapler,9,17.39,0.15,133.03,107.77,25.26,Debit Card
+ORD00201,2025-11-09,CUST0218,38.0,Corporate,Central,Online,Home & Kitchen,Coffee Maker,8,256.97,0.2,1644.61,1195.02,449.59,Debit Card
+ORD00202,2025-06-10,CUST0289,21.0,Consumer,South,Online,Home & Kitchen,Blender,9,104.95,0.15,802.87,625.97,176.9,Debit Card
+ORD00203,2025-06-18,CUST0005,51.0,Consumer,North,Online,Electronics,Headphones,10,91.4,0.05,868.3,578.05,290.25,Debit Card
+ORD00204,2025-05-05,CUST0192,57.0,Small Business,West,Distributor,Furniture,Office Chair,2,367.61,0.05,698.46,470.76,227.7,Bank Transfer
+ORD00205,2025-01-20,CUST0232,21.0,Small Business,South,Retail Store,Office Supplies,Notebook,7,5.42,0.15,32.25,17.89,14.36,Bank Transfer
+ORD00206,2025-10-11,CUST0044,19.0,Consumer,South,Retail Store,Home & Kitchen,Cookware Set,9,224.12,0.02,1976.74,1270.63,706.11,Credit Card
+ORD00207,2025-10-06,CUST0268,60.0,Small Business,North,Online,Electronics,Smartphone,6,697.81,0.1,3768.17,3053.76,714.41,UPI
+ORD00208,2025-03-26,CUST0268,32.0,Small Business,North,Retail Store,Furniture,Cabinet,4,496.43,0.15,1687.86,1132.31,555.56,Debit Card
+ORD00209,2025-02-09,CUST0246,25.0,Consumer,North,Distributor,Furniture,Bookshelf,2,196.19,0.05,372.76,236.54,136.22,Cash
+ORD00210,2025-03-04,CUST0102,38.0,Small Business,Central,Retail Store,Office Supplies,Notebook,7,12.64,0.0,88.48,52.63,35.85,Cash
+ORD00211,2025-05-11,CUST0133,37.0,Consumer,North,Retail Store,Furniture,Bookshelf,5,131.91,0.0,659.55,376.89,282.66,Debit Card
+ORD00212,2025-05-14,CUST0213,28.0,Consumer,East,Distributor,Office Supplies,Folders,9,8.73,0.1,70.71,51.33,19.38,Debit Card
+ORD00213,2025-06-05,CUST0041,50.0,Corporate,South,Distributor,Furniture,Bookshelf,10,361.54,0.15,3073.09,1808.0,1265.09,Cash
+ORD00214,2025-09-30,CUST0272,47.0,Small Business,Central,Distributor,Office Supplies,Printer Paper,9,23.72,0.2,170.78,95.37,75.42,UPI
+ORD00215,2025-02-16,CUST0294,25.0,Consumer,North,Retail Store,Furniture,Desk,8,354.7,0.1,2553.84,1758.11,795.73,UPI
+ORD00216,2025-05-22,CUST0207,56.0,Consumer,West,Distributor,Home & Kitchen,Lamp,5,119.21,0.2,476.84,269.87,206.97,Credit Card
+ORD00217,2025-04-01,CUST0035,55.0,Corporate,South,Online,Furniture,Bookshelf,7,370.3,0.05,2462.5,1717.82,744.67,Bank Transfer
+ORD00218,2025-06-03,CUST0201,63.0,Small Business,North,Distributor,Office Supplies,Pens,9,9.61,0.2,69.19,52.14,17.05,UPI
+ORD00219,2025-05-04,CUST0164,64.0,Small Business,North,Retail Store,Clothing,Shirt,9,98.63,0.05,843.29,513.54,329.74,Bank Transfer
+ORD00220,2025-03-30,CUST0041,52.0,Consumer,East,Distributor,Electronics,Laptop,8,512.4,0.1,3689.28,2756.51,932.77,Credit Card
+ORD00221,2025-12-27,CUST0016,39.0,Corporate,Central,Distributor,Clothing,Jacket,8,185.43,0.02,1453.77,1045.36,408.41,Credit Card
+ORD00222,2025-03-05,CUST0201,38.0,Consumer,South,Online,Home & Kitchen,Blender,3,79.94,0.05,227.83,162.15,65.68,Cash
+ORD00223,2025-08-04,CUST0047,40.0,Consumer,North,Retail Store,Home & Kitchen,Blender,1,133.69,0.02,131.02,87.43,43.58,Bank Transfer
+ORD00224,2025-11-03,CUST0028,46.0,Consumer,West,Distributor,Electronics,Monitor,6,551.64,0.15,2813.36,1936.55,876.82,UPI
+ORD00225,2025-07-13,CUST0214,58.0,Small Business,South,Distributor,Clothing,Shirt,6,61.58,0.1,332.53,219.43,113.1,Credit Card
+ORD00226,2025-10-10,CUST0142,18.0,Corporate,East,Online,Electronics,Smartphone,6,561.85,0.02,3303.68,2238.91,1064.77,Credit Card
+ORD00227,2025-07-08,CUST0245,25.0,Corporate,North,Online,Office Supplies,Folders,1,11.06,0.15,9.4,6.03,3.37,UPI
+ORD00228,2025-12-10,CUST0183,58.0,Consumer,Central,Online,Electronics,Smartphone,9,493.49,0.0,4441.41,2856.76,1584.65,Credit Card
+ORD00229,2025-11-29,CUST0109,57.0,Consumer,Central,Distributor,Electronics,Headphones,3,212.36,0.05,605.23,400.04,205.19,Bank Transfer
+ORD00230,2025-09-07,CUST0175,44.0,Consumer,Central,Distributor,Clothing,Sneakers,10,83.31,0.1,749.79,424.43,325.36,Cash
+ORD00231,2025-06-10,CUST0084,54.0,Corporate,West,Distributor,Clothing,Jeans,4,53.1,0.2,169.92,112.68,57.24,
+ORD00232,2025-09-15,CUST0266,27.0,Consumer,Central,Distributor,Electronics,Laptop,3,904.24,0.0,2712.72,1926.81,785.91,Debit Card
+ORD00233,2025-09-16,CUST0296,44.0,Corporate,West,Retail Store,Furniture,Bookshelf,9,372.25,0.1,3015.22,2089.85,925.38,Cash
+ORD00234,2025-11-17,CUST0127,43.0,Small Business,Central,Online,Furniture,Office Chair,3,377.95,0.05,1077.16,827.44,249.72,Cash
+ORD00235,2025-04-17,CUST0030,62.0,Small Business,South,Online,Electronics,Laptop,5,567.38,0.2,2269.52,1776.29,493.23,Credit Card
+ORD00236,2025-06-05,CUST0118,58.0,Small Business,West,Retail Store,Clothing,Shirt,3,84.88,0.05,241.91,157.22,84.69,UPI
+ORD00237,2025-06-05,CUST0148,21.0,Small Business,Central,Online,Clothing,Shirt,7,76.63,0.02,525.68,338.22,187.47,Cash
+ORD00238,2025-05-06,CUST0204,55.0,Consumer,East,Retail Store,Office Supplies,Folders,2,11.79,0.1,21.22,16.5,4.73,Cash
+ORD00239,2025-12-10,CUST0234,28.0,Small Business,East,Retail Store,Electronics,Keyboard,2,41.76,0.15,70.99,39.79,31.2,Cash
+ORD00240,2025-05-02,CUST0134,59.0,Consumer,Central,Online,Office Supplies,Printer Paper,5,12.83,0.2,51.32,34.79,16.53,Bank Transfer
+ORD00241,2025-03-18,CUST0165,34.0,Small Business,East,Retail Store,Clothing,Jeans,1,104.4,0.15,88.74,61.78,26.96,Cash
+ORD00242,2025-12-09,CUST0021,59.0,Small Business,East,Online,Electronics,Laptop,6,1032.26,0.15,5264.53,3172.13,2092.39,Debit Card
+ORD00243,2025-04-02,CUST0273,30.0,Small Business,Central,Distributor,Clothing,Jacket,3,133.66,0.0,400.98,242.98,158.0,Debit Card
+ORD00244,2025-06-01,CUST0164,54.0,Small Business,South,Online,Office Supplies,Stapler,6,11.01,0.0,66.06,44.81,21.25,Cash
+ORD00245,2025-02-16,CUST0184,38.0,Corporate,West,Distributor,Office Supplies,Pens,6,18.37,0.15,93.69,54.69,39.0,UPI
+ORD00246,2025-05-27,CUST0203,53.0,Corporate,South,Online,Clothing,T-Shirt,6,54.47,0.0,326.82,229.41,97.41,UPI
+ORD00247,2025-08-07,CUST0048,64.0,Small Business,South,Distributor,Electronics,Monitor,3,409.78,0.15,1044.94,844.45,200.49,Bank Transfer
+ORD00248,2025-08-13,CUST0189,55.0,Small Business,East,Distributor,Electronics,Keyboard,1,20.41,0.0,20.41,11.4,9.01,UPI
+ORD00249,2025-10-25,CUST0163,58.0,Corporate,Central,Retail Store,Furniture,Meeting Table,3,327.49,0.2,785.98,635.47,150.51,UPI
+ORD00250,2025-05-15,CUST0037,53.0,Consumer,East,Online,Office Supplies,Printer Paper,1,21.92,0.2,17.54,13.15,4.39,Credit Card
+ORD00251,2025-06-13,CUST0260,57.0,Corporate,East,Retail Store,Home & Kitchen,Storage Box,9,67.53,0.0,607.77,347.02,260.75,Credit Card
+ORD00252,2025-03-02,CUST0234,55.0,Small Business,East,Online,Office Supplies,Pens,2,11.88,0.15,20.2,13.84,6.36,Debit Card
+ORD00253,2025-07-03,CUST0055,56.0,Corporate,West,Distributor,Clothing,Shirt,10,35.89,0.15,305.06,244.32,60.74,UPI
+ORD00254,2025-08-21,CUST0281,38.0,Consumer,Central,Online,Office Supplies,Folders,7,12.92,0.0,90.44,59.9,30.54,UPI
+ORD00255,2025-02-21,CUST0022,31.0,Corporate,West,Retail Store,Electronics,Smartphone,8,785.86,0.2,5029.5,3883.2,1146.3,Debit Card
+ORD00256,2025-01-12,CUST0079,51.0,Corporate,South,Online,Clothing,Sneakers,8,168.35,0.02,1319.86,992.71,327.15,UPI
+ORD00257,2025-04-06,CUST0157,41.0,Small Business,North,Online,Electronics,Laptop,10,1011.13,0.02,9909.07,6360.64,3548.44,Debit Card
+ORD00258,2025-06-11,CUST0198,32.0,Corporate,West,Online,Clothing,Jacket,3,174.01,0.0,522.03,346.65,175.38,UPI
+ORD00259,2025-11-12,CUST0101,27.0,Consumer,East,Online,Clothing,Jacket,10,63.39,0.02,621.22,488.52,132.7,Cash
+ORD00260,2025-04-04,CUST0298,37.0,Consumer,North,Distributor,Electronics,Keyboard,4,36.85,0.0,147.4,106.71,40.69,UPI
+ORD00261,2025-02-10,CUST0013,35.0,Small Business,East,Online,Electronics,Headphones,7,164.61,0.1,1037.04,585.03,452.01,UPI
+ORD00262,2025-11-25,CUST0237,39.0,Corporate,East,Online,Furniture,Meeting Table,2,1039.96,0.0,2079.92,1567.4,512.52,Credit Card
+ORD00263,2025-10-01,CUST0065,61.0,Corporate,East,Online,Furniture,Office Chair,7,154.64,0.1,974.23,715.27,258.96,Bank Transfer
+ORD00264,2025-11-09,CUST0046,27.0,Corporate,North,Distributor,Clothing,Sneakers,3,80.24,0.15,204.61,158.69,45.92,Cash
+ORD00265,2025-12-03,CUST0102,27.0,Corporate,West,Online,Home & Kitchen,Storage Box,2,73.77,0.2,118.03,88.38,29.65,UPI
+ORD00266,2025-06-20,CUST0175,43.0,Corporate,North,Distributor,Electronics,Keyboard,8,97.37,0.15,662.12,502.53,159.58,Credit Card
+ORD00267,2025-06-19,CUST0224,47.0,Small Business,East,Retail Store,Electronics,Keyboard,6,146.88,0.15,749.09,448.76,300.33,Credit Card
+ORD00268,2025-11-09,CUST0160,53.0,Small Business,West,Distributor,Home & Kitchen,Blender,10,148.24,0.1,1334.16,1050.52,283.64,Cash
+ORD00269,2025-08-02,CUST0205,46.0,Small Business,East,Online,Office Supplies,Notebook,8,10.27,0.15,69.84,43.06,26.78,Credit Card
+ORD00270,2025-04-29,CUST0059,28.0,Corporate,Central,Retail Store,Clothing,Shirt,10,29.34,0.0,293.4,190.34,103.06,Bank Transfer
+ORD00271,2025-01-25,CUST0068,62.0,Small Business,South,Distributor,Furniture,Cabinet,9,409.87,0.02,3615.05,2946.44,668.62,UPI
+ORD00272,2025-04-12,CUST0241,64.0,Consumer,West,Retail Store,Clothing,Jacket,1,88.99,0.1,80.09,45.4,34.7,Credit Card
+ORD00273,2025-09-05,CUST0061,55.0,Corporate,North,Retail Store,Furniture,Meeting Table,9,747.58,0.05,6391.81,3932.95,2458.86,UPI
+ORD00274,2025-03-03,CUST0006,27.0,Corporate,South,Distributor,Furniture,Meeting Table,6,1166.08,0.2,5597.18,3144.79,2452.39,Cash
+ORD00275,2025-08-28,CUST0068,28.0,Consumer,East,Retail Store,Home & Kitchen,Cookware Set,1,229.53,0.0,229.53,132.99,96.54,Bank Transfer
+ORD00276,2025-11-28,CUST0154,42.0,Consumer,East,Distributor,Office Supplies,Stapler,10,24.9,0.2,199.2,119.03,80.17,Debit Card
+ORD00277,2025-04-17,CUST0141,33.0,Consumer,East,Retail Store,Clothing,Shirt,2,84.44,0.0,168.88,127.42,41.46,Debit Card
+ORD00278,2025-02-08,CUST0044,37.0,Small Business,North,Retail Store,Furniture,Cabinet,1,223.67,0.05,212.49,165.93,46.55,Debit Card
+ORD00279,2025-06-05,CUST0055,60.0,Small Business,South,Retail Store,Electronics,Headphones,5,32.44,0.1,145.98,92.97,53.01,Cash
+ORD00280,2025-05-21,CUST0155,53.0,Corporate,Central,Retail Store,Office Supplies,Folders,3,7.18,0.1,19.39,12.74,6.64,Credit Card
+ORD00281,2025-11-23,CUST0099,37.0,Small Business,North,Online,Furniture,Bookshelf,9,238.3,0.15,1823.0,1018.7,804.29,Bank Transfer
+ORD00282,2025-06-22,CUST0114,37.0,Consumer,West,Distributor,Electronics,Monitor,1,274.0,0.02,268.52,177.82,90.7,Cash
+ORD00283,2025-12-09,CUST0193,28.0,Small Business,South,Online,Electronics,Smartphone,4,1077.36,0.1,3878.5,2372.66,1505.84,Credit Card
+ORD00284,2025-03-09,CUST0109,38.0,Small Business,Central,Retail Store,Electronics,Smartphone,9,879.55,0.15,6728.56,5226.13,1502.43,UPI
+ORD00285,2025-05-12,CUST0112,62.0,Small Business,South,Online,Clothing,Jeans,5,110.33,0.2,441.32,277.96,163.36,Cash
+ORD00286,2025-07-14,CUST0004,53.0,Small Business,East,Online,Clothing,T-Shirt,10,31.4,0.05,298.3,226.17,72.13,Debit Card
+ORD00287,2025-09-05,CUST0169,62.0,Small Business,West,Distributor,Office Supplies,Printer Paper,7,26.9,0.15,160.05,93.56,66.5,Cash
+ORD00288,2025-12-23,CUST0179,57.0,Corporate,North,Online,Electronics,Headphones,6,142.47,0.2,683.86,456.9,226.96,Cash
+ORD00289,2025-08-27,CUST0025,30.0,Consumer,North,Retail Store,Clothing,Shirt,3,48.26,0.1,130.3,103.19,27.11,Debit Card
+ORD00290,2025-02-08,CUST0202,38.0,Corporate,Central,Distributor,Office Supplies,Pens,6,5.27,0.1,28.46,18.84,9.62,Credit Card
+ORD00291,2025-05-19,CUST0102,34.0,Corporate,South,Distributor,Office Supplies,Printer Paper,9,24.52,0.0,220.68,163.94,56.74,Bank Transfer
+ORD00292,2025-03-22,CUST0198,41.0,Small Business,North,Distributor,Electronics,Laptop,3,1208.49,0.1,3262.92,2423.92,839.0,Debit Card
+ORD00293,2025-09-08,CUST0245,26.0,Consumer,North,Retail Store,Electronics,Smartphone,9,928.98,0.0,8360.82,5356.07,3004.75,Cash
+ORD00294,2025-12-03,CUST0043,32.0,Corporate,East,Retail Store,Office Supplies,Notebook,7,11.41,0.0,79.87,44.27,35.6,Bank Transfer
+ORD00295,2025-09-27,CUST0168,21.0,Consumer,South,Online,Clothing,Jacket,10,51.71,0.0,517.1,398.49,118.61,UPI
+ORD00296,2025-08-28,CUST0148,29.0,Small Business,East,Distributor,Office Supplies,Folders,6,11.58,0.15,59.06,46.28,12.78,UPI
+ORD00297,2025-11-09,CUST0083,31.0,Small Business,Central,Retail Store,Clothing,Shirt,8,46.75,0.2,299.2,231.84,67.36,UPI
+ORD00298,2025-04-23,CUST0097,28.0,Corporate,West,Distributor,Office Supplies,Printer Paper,8,11.19,0.1,80.57,53.27,27.3,Cash
+ORD00299,2025-02-28,CUST0047,58.0,Corporate,North,Retail Store,Home & Kitchen,Blender,5,162.92,0.2,651.68,416.92,234.76,UPI
+ORD00300,2025-08-03,CUST0202,46.0,Corporate,East,Online,Clothing,T-Shirt,6,43.88,0.2,210.62,134.34,76.28,Bank Transfer
+ORD00301,2025-11-18,CUST0219,45.0,Consumer,north,Online,Electronics,Laptop,10,511.48,0.0,5114.8,3075.27,2039.53,Credit Card
+ORD00302,2025-04-08,CUST0154,33.0,Small Business,North,Retail Store,Electronics,Keyboard,3,29.63,0.02,87.11,64.14,22.98,Debit Card
+ORD00303,2025-02-10,CUST0290,37.0,Small Business,West,Distributor,Office Supplies,Pens,6,3.36,0.1,18.14,12.69,5.45,UPI
+ORD00304,2025-08-21,CUST0266,19.0,Small Business,East,Online,Office Supplies,Pens,1,14.17,0.2,11.34,6.59,4.74,Cash
+ORD00305,2025-09-05,CUST0068,47.0,Corporate,West,Online,Home & Kitchen,Lamp,5,115.75,0.05,549.81,362.99,186.83,Credit Card
+ORD00306,2025-03-14,CUST0054,59.0,Corporate,Central,Retail Store,Electronics,Laptop,1,950.25,0.02,931.24,514.28,416.97,Credit Card
+ORD00307,2025-09-28,CUST0273,26.0,Consumer,West,Retail Store,Furniture,Bookshelf,5,364.82,0.0,1824.1,1493.92,330.18,UPI
+ORD00308,2025-06-17,CUST0225,40.0,Consumer,North,Distributor,Office Supplies,Notebook,2,11.05,0.1,19.89,11.1,8.79,Bank Transfer
+ORD00309,2025-03-02,CUST0138,50.0,Small Business,South,Retail Store,Electronics,Headphones,2,50.83,0.05,96.58,62.82,33.75,UPI
+ORD00310,2025-12-24,CUST0073,44.0,Small Business,North,Retail Store,Furniture,Bookshelf,8,237.92,0.2,1522.69,990.05,532.64,UPI
+ORD00311,2025-10-11,CUST0258,54.0,Corporate,North,Retail Store,Home & Kitchen,Lamp,1,89.98,0.1,80.98,61.76,19.23,Credit Card
+ORD00312,2025-06-17,CUST0063,60.0,Corporate,West,Distributor,Home & Kitchen,Coffee Maker,6,112.1,0.02,659.15,373.92,285.23,Cash
+ORD00313,2025-09-13,CUST0003,41.0,Small Business,Central,Distributor,Office Supplies,Printer Paper,4,5.55,0.2,17.76,11.12,6.64,Bank Transfer
+ORD00314,2025-05-13,CUST0109,45.0,Corporate,North,Retail Store,Furniture,Office Chair,6,204.09,0.15,1040.86,820.26,220.6,Cash
+ORD00315,2025-07-15,CUST0052,59.0,Small Business,West,Online,Clothing,Jacket,5,66.56,0.0,332.8,249.76,83.04,Credit Card
+ORD00316,2025-02-05,CUST0213,59.0,Consumer,South,Distributor,Electronics,Headphones,7,113.1,0.15,672.94,412.23,260.71,Debit Card
+ORD00317,2025-04-28,CUST0214,40.0,Corporate,Central,Distributor,Home & Kitchen,Blender,3,50.87,0.2,122.09,82.37,39.72,Credit Card
+ORD00318,2025-06-09,CUST0085,40.0,Small Business,West,Online,Electronics,Headphones,7,153.98,0.15,916.18,687.11,229.07,Cash
+ORD00319,2025-05-30,CUST0122,34.0,Corporate,North,Retail Store,Furniture,Meeting Table,2,959.16,0.2,1534.66,1209.38,325.27,UPI
+ORD00320,2025-08-22,CUST0152,31.0,Small Business,West,Retail Store,Furniture,Cabinet,2,391.07,0.0,782.14,476.54,305.6,UPI
+ORD00321,2025-01-19,CUST0141,57.0,Corporate,East,Online,Office Supplies,Folders,1,10.05,0.2,8.04,4.86,3.18,Debit Card
+ORD00322,2025-11-16,CUST0282,56.0,Consumer,Central,Online,Electronics,Smartphone,1,222.14,0.15,188.82,114.37,74.45,Debit Card
+ORD00323,2025-07-12,CUST0207,34.0,Corporate,North,Online,Electronics,Monitor,1,241.94,0.15,205.65,150.49,55.16,UPI
+ORD00324,2025-05-24,CUST0086,45.0,Corporate,North,Online,Home & Kitchen,Storage Box,10,25.53,0.1,229.77,155.22,74.55,Credit Card
+ORD00325,2025-07-18,CUST0139,36.0,Small Business,Central,Online,Electronics,Monitor,6,207.32,0.0,1243.92,980.57,263.35,Debit Card
+ORD00326,2025-08-12,CUST0049,57.0,Small Business,West,Distributor,Home & Kitchen,Blender,3,152.5,0.02,448.35,254.65,193.7,Bank Transfer
+ORD00327,2025-08-09,CUST0206,46.0,Corporate,East,Distributor,Home & Kitchen,Coffee Maker,6,143.87,0.1,776.9,441.98,334.92,UPI
+ORD00328,2025-05-02,CUST0049,47.0,Small Business,East,Retail Store,Office Supplies,Stapler,4,14.28,0.05,54.26,39.54,14.72,UPI
+ORD00329,2025-07-26,CUST0209,54.0,Consumer,North,Retail Store,Electronics,Keyboard,2,102.16,0.15,173.67,133.17,40.5,Cash
+ORD00330,2025-09-22,CUST0277,46.0,Corporate,West,Online,Office Supplies,Folders,7,6.52,0.1,41.08,25.46,15.62,Debit Card
+ORD00331,2025-03-03,CUST0104,30.0,Corporate,South,Retail Store,Furniture,Cabinet,5,526.29,0.2,2105.16,1377.36,727.8,UPI
+ORD00332,2025-08-10,CUST0218,61.0,Corporate,West,Distributor,Office Supplies,Notebook,2,5.9,0.2,9.44,6.61,2.83,UPI
+ORD00333,2025-11-14,CUST0222,55.0,Corporate,North,Distributor,Furniture,Desk,10,398.82,0.02,3908.44,2821.6,1086.84,Credit Card
+ORD00334,2025-04-20,CUST0207,53.0,Small Business,Central,Distributor,Home & Kitchen,Blender,5,114.02,0.02,558.7,424.46,134.24,Debit Card
+ORD00335,2025-06-10,CUST0079,54.0,Consumer,West,Online,Clothing,Shirt,4,83.02,0.1,298.87,236.07,62.8,Cash
+ORD00336,2025-08-05,CUST0264,46.0,Small Business,East,Retail Store,Home & Kitchen,Cookware Set,2,57.8,0.2,92.48,53.22,39.26,Cash
+ORD00337,2025-10-03,CUST0163,48.0,Small Business,West,Online,Office Supplies,Notebook,6,9.92,0.05,56.54,44.2,12.35,UPI
+ORD00338,2025-07-06,CUST0166,28.0,Small Business,Central,Online,Home & Kitchen,Storage Box,4,19.11,0.05,72.62,44.49,28.13,Bank Transfer
+ORD00339,2025-12-21,CUST0068,38.0,Consumer,East,Retail Store,Furniture,Office Chair,7,404.92,0.05,2692.72,1764.97,927.75,Cash
+ORD00340,2025-03-02,CUST0110,37.0,Consumer,East,Distributor,Home & Kitchen,Storage Box,2,62.97,0.02,123.42,98.81,24.61,UPI
+ORD00341,2025-05-29,CUST0014,21.0,Corporate,West,Retail Store,Furniture,Cabinet,5,363.84,0.05,1728.24,1284.22,444.02,Credit Card
+ORD00342,2025-07-29,CUST0182,61.0,Consumer,East,Distributor,Office Supplies,Pens,7,16.99,0.2,95.14,70.08,25.07,Cash
+ORD00343,2025-07-12,CUST0142,39.0,Corporate,West,Distributor,Furniture,Bookshelf,7,319.29,0.1,2011.53,1352.32,659.21,Debit Card
+ORD00344,2025-02-12,CUST0293,37.0,Corporate,West,Retail Store,Furniture,Cabinet,1,442.7,0.05,420.56,276.95,143.62,UPI
+ORD00345,2025-12-30,CUST0128,37.0,Corporate,East,Retail Store,Electronics,Smartphone,10,1121.31,0.05,10652.44,6102.07,4550.38,Cash
+ORD00346,2025-08-27,CUST0293,40.0,Consumer,East,Distributor,Clothing,Shirt,7,43.47,0.15,258.65,156.26,102.39,Credit Card
+ORD00347,2025-09-21,CUST0268,63.0,Corporate,Central,Distributor,Furniture,Office Chair,7,349.05,0.0,2443.35,1631.07,812.28,Bank Transfer
+ORD00348,2025-01-11,CUST0276,24.0,Corporate,South,Retail Store,Electronics,Laptop,3,1352.55,0.2,3246.12,1986.39,1259.73,Bank Transfer
+ORD00349,2025-10-20,CUST0093,57.0,Small Business,North,Retail Store,Furniture,Desk,5,198.63,0.1,893.84,643.79,250.04,UPI
+ORD00350,2025-05-05,CUST0166,43.0,Consumer,Central,Distributor,Clothing,Jeans,1,53.08,0.1,47.77,36.29,11.48,Bank Transfer
+ORD00351,2025-09-23,CUST0106,40.0,Corporate,East,Online,Furniture,Bookshelf,5,260.29,0.2,1041.16,701.83,339.33,Credit Card
+ORD00352,2025-04-16,CUST0082,49.0,Consumer,Central,Retail Store,Home & Kitchen,Coffee Maker,9,164.61,0.02,1451.86,875.03,576.83,Credit Card
+ORD00353,2025-11-23,CUST0229,35.0,Small Business,North,Distributor,Home & Kitchen,Blender,6,108.96,0.05,621.07,469.44,151.63,Bank Transfer
+ORD00354,2025-04-05,CUST0191,25.0,Small Business,West,Online,Office Supplies,Folders,10,12.85,0.2,102.8,74.91,27.89,Credit Card
+ORD00355,2025-09-03,CUST0072,49.0,Corporate,South,Retail Store,Clothing,Sneakers,3,79.01,0.15,201.48,163.57,37.9,Cash
+ORD00356,2025-10-14,CUST0287,22.0,Small Business,Central,Online,Electronics,Monitor,1,572.5,0.05,543.88,302.84,241.04,Bank Transfer
+ORD00357,2025-01-13,CUST0205,59.0,Small Business,Central,Online,Home & Kitchen,Coffee Maker,6,180.49,0.1,974.65,701.14,273.51,Debit Card
+ORD00358,2025-11-24,CUST0269,62.0,Small Business,South,Retail Store,Electronics,Keyboard,1,79.58,0.02,77.99,59.44,18.55,UPI
+ORD00359,2025-09-03,CUST0094,34.0,Small Business,South,Retail Store,Home & Kitchen,Blender,7,148.15,0.02,1016.31,668.15,348.16,Cash
+ORD00360,2025-04-26,CUST0137,61.0,Corporate,North,Distributor,Furniture,Meeting Table,5,906.96,0.0,4534.8,3261.01,1273.79,Cash
+ORD00361,2025-10-15,CUST0155,62.0,Consumer,West,Online,Electronics,Keyboard,2,23.25,0.0,46.5,27.95,18.55,Credit Card
+ORD00362,2025-05-19,CUST0056,34.0,Small Business,East,Retail Store,Clothing,T-Shirt,10,42.48,0.2,339.84,249.07,90.77,Credit Card
+ORD00363,2025-07-19,CUST0149,52.0,Consumer,North,Distributor,Furniture,Meeting Table,3,974.48,0.2,2338.75,1471.03,867.73,UPI
+ORD00364,2025-09-30,CUST0244,45.0,Corporate,East,Retail Store,Office Supplies,Printer Paper,3,21.7,0.1,58.59,47.21,11.38,Debit Card
+ORD00365,2025-09-26,CUST0188,49.0,Corporate,West,Online,Clothing,Jeans,4,112.16,0.02,439.67,283.0,156.67,Credit Card
+ORD00366,2025-10-11,CUST0208,35.0,Corporate,North,Distributor,Office Supplies,Printer Paper,8,11.95,0.05,90.82,74.1,16.72,Credit Card
+ORD00367,2025-10-14,CUST0118,51.0,Consumer,Central,Retail Store,Furniture,Cabinet,9,199.25,0.1,1613.92,889.85,724.08,UPI
+ORD00368,2025-07-30,CUST0271,20.0,Consumer,East,Distributor,Furniture,Office Chair,8,400.47,0.02,3139.68,1773.96,1365.72,Debit Card
+ORD00369,2025-12-17,CUST0158,21.0,Small Business,South,Retail Store,Office Supplies,Stapler,10,22.3,0.02,218.54,131.44,87.1,Credit Card
+ORD00370,2025-04-26,CUST0250,50.0,Corporate,Central,Retail Store,Office Supplies,Printer Paper,4,20.09,0.0,80.36,59.0,21.36,Bank Transfer
+ORD00371,2025-03-11,CUST0227,61.0,Small Business,North,Distributor,Clothing,T-Shirt,9,22.4,0.02,197.57,158.35,39.21,Bank Transfer
+ORD00372,2025-07-19,CUST0037,22.0,Consumer,East,Online,Office Supplies,Printer Paper,4,19.01,0.0,76.04,43.38,32.66,Debit Card
+ORD00373,2025-02-28,CUST0108,57.0,Consumer,South,Distributor,Office Supplies,Folders,5,12.95,0.0,64.75,47.13,17.62,Bank Transfer
+ORD00374,2025-08-08,CUST0162,26.0,Corporate,South,Online,Clothing,Jeans,8,101.05,0.15,687.14,422.47,264.67,Debit Card
+ORD00375,2025-02-09,CUST0182,18.0,Small Business,Central,Online,Clothing,T-Shirt,7,46.14,0.2,258.38,182.41,75.98,Credit Card
+ORD00376,2025-04-09,CUST0141,64.0,Corporate,Central,Online,Furniture,Meeting Table,6,970.66,0.2,4659.17,3263.63,1395.54,Credit Card
+ORD00377,2025-01-14,CUST0163,44.0,Small Business,Central,Online,Electronics,Laptop,6,858.33,0.05,4892.48,3055.13,1837.35,Cash
+ORD00378,2025-01-26,CUST0273,37.0,Corporate,Central,Retail Store,Clothing,Sneakers,1,170.72,0.0,170.72,138.66,32.06,UPI
+ORD00379,2025-03-04,CUST0100,61.0,Small Business,East,Online,Electronics,Headphones,7,90.48,0.05,601.69,436.24,165.45,UPI
+ORD00380,2025-05-25,CUST0128,18.0,Corporate,East,Online,Office Supplies,Printer Paper,8,25.84,0.15,175.71,121.86,53.85,UPI
+ORD00381,2025-12-12,CUST0271,19.0,Consumer,West,Retail Store,Home & Kitchen,Cookware Set,4,161.27,0.15,548.32,348.61,199.71,UPI
+ORD00382,2025-04-13,CUST0146,33.0,Consumer,South,Retail Store,Office Supplies,Notebook,2,6.76,0.1,12.17,9.16,3.0,UPI
+ORD00383,2025-04-08,CUST0122,62.0,Corporate,East,Retail Store,Furniture,Meeting Table,7,1002.87,0.1,6318.08,4396.63,1921.45,Cash
+ORD00384,2025-10-15,CUST0212,32.0,Corporate,South,Online,Home & Kitchen,Cookware Set,7,125.81,0.2,704.54,446.17,258.36,Debit Card
+ORD00385,2025-12-03,CUST0150,22.0,Small Business,North,Retail Store,Office Supplies,Pens,1,16.91,0.1,15.22,8.91,6.3,UPI
+ORD00386,2025-11-12,CUST0233,31.0,Small Business,West,Retail Store,Office Supplies,Folders,3,19.84,0.0,59.52,34.67,24.85,Credit Card
+ORD00387,2025-09-13,CUST0094,62.0,Corporate,North,Retail Store,Electronics,Smartphone,5,822.75,0.1,3702.38,2933.95,768.43,Credit Card
+ORD00388,2025-09-23,CUST0209,28.0,Small Business,East,Online,Electronics,Laptop,4,1161.72,0.02,4553.94,3670.6,883.34,Cash
+ORD00389,2025-11-27,CUST0144,35.0,Small Business,North,Online,Furniture,Cabinet,2,117.97,0.2,188.75,141.08,47.68,UPI
+ORD00390,2025-07-07,CUST0079,19.0,Small Business,Central,Distributor,Electronics,Keyboard,10,60.78,0.1,547.02,379.93,167.09,Debit Card
+ORD00391,2025-10-19,CUST0076,43.0,Consumer,Central,Retail Store,Clothing,Shirt,1,55.79,0.15,47.42,30.4,17.02,Bank Transfer
+ORD00392,2025-10-20,CUST0275,32.0,Small Business,Central,Distributor,Home & Kitchen,Coffee Maker,4,215.7,0.1,776.52,538.19,238.33,Bank Transfer
+ORD00393,2025-11-07,CUST0224,37.0,Consumer,West,Retail Store,Home & Kitchen,Coffee Maker,5,102.15,0.05,485.21,312.27,172.94,Credit Card
+ORD00394,2025-05-21,CUST0231,46.0,Corporate,East,Retail Store,Furniture,Meeting Table,3,1044.62,0.02,3071.18,1968.86,1102.33,Bank Transfer
+ORD00395,2025-05-28,CUST0165,35.0,Corporate,North,Distributor,Office Supplies,Pens,4,13.67,0.0,54.68,40.97,13.71,Cash
+ORD00396,2025-10-25,CUST0159,48.0,Corporate,North,Distributor,Furniture,Cabinet,2,235.32,0.15,400.04,238.28,161.76,Bank Transfer
+ORD00397,2025-10-15,CUST0273,27.0,Small Business,South,Retail Store,Office Supplies,Notebook,3,9.08,0.15,23.15,14.8,8.35,Debit Card
+ORD00398,2025-01-04,CUST0047,29.0,Small Business,South,Online,Home & Kitchen,Lamp,7,56.26,0.15,334.75,228.6,106.15,Credit Card
+ORD00399,2025-10-07,CUST0195,43.0,Small Business,West,Retail Store,Clothing,Sneakers,2,147.15,0.02,288.41,211.1,77.31,UPI
+ORD00400,2025-11-01,CUST0096,47.0,Corporate,South,Retail Store,Clothing,Jacket,1,151.47,0.2,121.18,71.34,49.84,Bank Transfer
+ORD00401,2025-11-29,CUST0022,59.0,Corporate,North,Retail Store,Home & Kitchen,Coffee Maker,8,223.09,0.0,1784.72,1044.71,740.01,Cash
+ORD00402,2025-06-09,CUST0201,19.0,Consumer,South,Online,Electronics,Keyboard,9,111.18,0.02,980.61,662.54,318.07,Bank Transfer
+ORD00403,2025-03-07,CUST0078,53.0,Small Business,North,Retail Store,Furniture,Office Chair,4,203.44,0.1,732.38,534.08,198.31,UPI
+ORD00404,2025-12-06,CUST0146,41.0,Small Business,Central,Retail Store,Furniture,Meeting Table,5,1025.38,0.1,4614.21,3218.91,1395.3,Cash
+ORD00405,2025-02-05,CUST0164,31.0,Corporate,Central,Online,Furniture,Desk,8,414.28,0.2,2651.39,1678.67,972.72,Cash
+ORD00406,2025-05-03,CUST0206,21.0,Consumer,East,Distributor,Clothing,Jeans,7,82.31,0.15,489.74,347.83,141.91,Cash
+ORD00407,2025-10-15,CUST0283,58.0,Consumer,West,Retail Store,Clothing,T-Shirt,7,44.93,0.2,251.61,160.01,91.6,Bank Transfer
+ORD00408,2025-10-14,CUST0288,45.0,Consumer,East,Retail Store,Clothing,Jacket,1,94.82,0.15,80.6,44.61,35.99,UPI
+ORD00409,2025-10-12,CUST0219,39.0,Small Business,North,Online,Home & Kitchen,Lamp,5,127.07,0.0,635.35,519.07,116.28,Debit Card
+ORD00410,2025-02-23,CUST0058,43.0,Consumer,East,Retail Store,Electronics,Laptop,7,814.92,0.05,5419.22,3659.22,1760.0,UPI
+ORD00411,2025-01-08,CUST0204,50.0,Small Business,Central,Distributor,Home & Kitchen,,4,96.38,0.2,308.42,225.14,83.28,UPI
+ORD00412,2025-08-31,CUST0188,44.0,Corporate,East,Distributor,Clothing,Sneakers,7,75.94,0.1,478.42,287.24,191.18,Cash
+ORD00413,2025-12-08,CUST0115,25.0,Small Business,East,Retail Store,Electronics,Keyboard,5,77.59,0.15,329.76,227.98,101.78,Bank Transfer
+ORD00414,2025-07-30,CUST0011,48.0,Small Business,East,Retail Store,Furniture,Bookshelf,9,168.91,0.1,1368.17,861.71,506.46,UPI
+ORD00415,2025-08-18,CUST0052,45.0,Corporate,North,Distributor,Furniture,Bookshelf,6,166.97,0.2,801.46,616.06,185.39,Credit Card
+ORD00416,2025-05-20,CUST0118,54.0,Small Business,East,Online,Office Supplies,Folders,10,19.94,0.2,159.52,129.74,29.78,Cash
+ORD00417,2025-05-02,CUST0235,58.0,Corporate,East,Distributor,Electronics,Keyboard,1,107.84,0.2,86.27,54.86,31.42,Cash
+ORD00418,2025-06-13,CUST0093,45.0,Corporate,East,Distributor,Electronics,Smartphone,3,1015.77,0.0,3047.31,2047.7,999.61,Credit Card
+ORD00419,2025-02-16,CUST0210,55.0,Corporate,Central,Retail Store,Home & Kitchen,Blender,10,98.08,0.05,931.76,696.24,235.52,Credit Card
+ORD00420,2025-11-02,CUST0004,18.0,Consumer,East,Online,Electronics,Laptop,9,680.52,0.15,5205.98,3812.95,1393.03,Bank Transfer
+ORD00421,2025-01-01,CUST0244,52.0,Consumer,South,Distributor,Electronics,Keyboard,10,47.15,0.1,424.35,267.25,157.1,Cash
+ORD00422,2025-06-05,CUST0031,33.0,Consumer,West,Distributor,Office Supplies,Pens,9,12.19,0.02,107.52,84.39,23.13,UPI
+ORD00423,2025-05-12,CUST0090,61.0,Corporate,East,Retail Store,Clothing,Sneakers,10,51.29,0.0,512.9,331.92,180.98,Bank Transfer
+ORD00424,2025-03-28,CUST0095,23.0,Consumer,South,Retail Store,Home & Kitchen,Storage Box,10,18.7,0.02,183.26,124.02,59.24,Bank Transfer
+ORD00425,2025-01-12,CUST0235,26.0,Small Business,East,Distributor,Home & Kitchen,Blender,10,165.31,0.15,1405.14,858.83,546.31,Cash
+ORD00426,2025-10-01,CUST0095,60.0,Small Business,East,Retail Store,Home & Kitchen,Coffee Maker,5,210.99,0.1,949.46,577.66,371.8,Debit Card
+ORD00427,2025-04-08,CUST0025,19.0,Corporate,Central,Distributor,Furniture,Bookshelf,2,344.43,0.1,619.97,446.69,173.29,Bank Transfer
+ORD00428,2025-08-12,CUST0215,26.0,Small Business,West,Online,Electronics,Headphones,7,141.82,0.1,893.47,689.13,204.34,Debit Card
+ORD00429,2025-10-22,CUST0266,24.0,Small Business,South,Distributor,Home & Kitchen,Coffee Maker,10,120.84,0.05,1147.98,682.03,465.95,Cash
+ORD00430,2025-04-21,CUST0175,36.0,Consumer,Central,Distributor,Clothing,Sneakers,6,94.14,0.1,508.36,306.25,202.11,UPI
+ORD00431,2025-07-14,CUST0102,30.0,Corporate,North,Online,Clothing,Jacket,8,59.31,0.15,403.31,321.73,81.57,Cash
+ORD00432,2025-01-01,CUST0188,33.0,Small Business,South,Online,Furniture,Office Chair,1,461.11,0.15,391.94,314.72,77.22,Credit Card
+ORD00433,2025-05-14,CUST0284,42.0,Small Business,Central,Retail Store,Furniture,Office Chair,7,166.43,0.05,1106.76,722.91,383.85,Debit Card
+ORD00434,2025-06-28,CUST0249,26.0,Small Business,East,Online,Furniture,Bookshelf,9,81.34,0.1,658.85,366.32,292.53,Bank Transfer
+ORD00435,2025-09-26,CUST0175,37.0,Consumer,Central,Distributor,Furniture,Bookshelf,6,389.7,0.2,1870.56,1133.75,736.81,Debit Card
+ORD00436,2025-05-27,CUST0214,43.0,Small Business,East,Online,Clothing,Sneakers,9,79.28,0.05,677.84,488.25,189.6,Cash
+ORD00437,2025-01-28,CUST0168,54.0,Consumer,East,Distributor,Office Supplies,Printer Paper,1,25.26,0.05,24.0,14.11,9.89,Debit Card
+ORD00438,2025-06-22,CUST0065,39.0,Small Business,West,Retail Store,Home & Kitchen,Cookware Set,3,249.31,0.1,673.14,535.08,138.06,Cash
+ORD00439,2025-11-09,CUST0170,61.0,Consumer,East,Distributor,Office Supplies,Pens,2,14.61,0.0,29.22,22.6,6.62,Debit Card
+ORD00440,2025-04-19,CUST0148,38.0,Small Business,North,Online,Furniture,Cabinet,9,449.67,0.15,3439.98,2345.4,1094.57,Debit Card
+ORD00441,2025-01-25,CUST0075,58.0,Corporate,South,Online,Home & Kitchen,Storage Box,9,14.27,0.02,125.86,77.47,48.39,UPI
+ORD00442,2025-06-01,CUST0153,41.0,Corporate,East,Distributor,Furniture,Bookshelf,3,135.81,0.0,407.43,322.72,84.71,Cash
+ORD00443,2025-08-14,CUST0129,40.0,Small Business,Central,Online,Home & Kitchen,Blender,2,160.63,0.0,321.26,241.74,79.52,UPI
+ORD00444,2025-02-03,CUST0048,62.0,Consumer,North,Retail Store,Furniture,Bookshelf,8,132.68,0.02,1040.21,591.04,449.17,Cash
+ORD00445,2025-10-01,CUST0109,26.0,Consumer,West,Distributor,Office Supplies,Printer Paper,9,24.32,0.1,196.99,154.27,42.72,Bank Transfer
+ORD00446,2025-11-04,CUST0258,22.0,Small Business,Central,Distributor,Electronics,Smartphone,3,1132.75,0.0,3398.25,2477.38,920.87,Bank Transfer
+ORD00447,2025-04-05,CUST0099,63.0,Small Business,North,Retail Store,Home & Kitchen,Storage Box,10,11.33,0.15,96.3,59.63,36.68,Credit Card
+ORD00448,2025-09-25,CUST0060,26.0,Corporate,Central,Distributor,Home & Kitchen,Storage Box,4,11.72,0.15,39.85,25.28,14.57,Bank Transfer
+ORD00449,2025-08-11,CUST0130,37.0,Small Business,North,Distributor,Home & Kitchen,Storage Box,3,31.24,0.15,79.66,46.63,33.04,Bank Transfer
+ORD00450,2025-07-14,CUST0214,35.0,Small Business,South,Retail Store,Electronics,Headphones,10,145.61,0.2,1164.88,739.21,425.67,UPI
+ORD00451,2025-11-20,CUST0007,52.0,Small Business,North,Distributor,Office Supplies,Stapler,8,10.38,0.0,83.04,67.11,15.93,Credit Card
+ORD00452,2025-03-13,CUST0007,59.0,Small Business,South,Distributor,Office Supplies,Notebook,6,3.75,0.05,21.38,17.1,4.27,Credit Card
+ORD00453,2025-08-03,CUST0026,42.0,Corporate,Central,Retail Store,Office Supplies,Printer Paper,9,24.12,0.2,173.66,125.79,47.87,Credit Card
+ORD00454,2025-03-19,CUST0224,38.0,Corporate,East,Distributor,Office Supplies,Printer Paper,6,6.59,0.15,33.61,27.07,6.54,UPI
+ORD00455,2025-07-15,CUST0219,20.0,Small Business,East,Distributor,Office Supplies,Notebook,8,14.84,0.2,94.98,70.64,24.34,Cash
+ORD00456,2025-06-27,CUST0048,58.0,Consumer,West,Distributor,Clothing,T-Shirt,10,51.92,0.15,441.32,299.59,141.73,UPI
+ORD00457,2025-09-27,CUST0206,48.0,Consumer,Central,Distributor,Office Supplies,Stapler,3,23.68,0.1,63.94,45.73,18.21,Credit Card
+ORD00458,2025-07-09,CUST0269,51.0,Consumer,Central,Retail Store,Furniture,Bookshelf,4,297.33,0.05,1129.85,899.49,230.37,Cash
+ORD00459,2025-04-08,CUST0253,24.0,Corporate,South,Distributor,Electronics,Smartphone,9,569.14,0.15,4353.92,2988.93,1365.0,Cash
+ORD00460,2025-03-30,CUST0122,39.0,Consumer,Central,Online,Electronics,Monitor,1,262.49,0.15,223.12,172.13,50.99,UPI
+ORD00461,2025-05-12,CUST0069,51.0,Small Business,Central,Distributor,Electronics,Monitor,10,356.11,0.02,3489.88,2716.26,773.61,Credit Card
+ORD00462,2025-07-16,CUST0214,19.0,Consumer,South,Distributor,Clothing,Jacket,8,58.21,0.0,465.68,371.17,94.51,Credit Card
+ORD00463,2025-11-23,CUST0171,50.0,Small Business,North,Online,Furniture,Meeting Table,1,408.33,0.02,400.16,257.78,142.38,Credit Card
+ORD00464,2025-07-07,CUST0182,59.0,Small Business,South,Online,Office Supplies,Notebook,9,11.62,0.1,94.12,53.83,40.29,Credit Card
+ORD00465,2025-03-20,CUST0071,47.0,Small Business,South,Retail Store,Home & Kitchen,Blender,7,102.19,0.15,608.03,410.05,197.98,Debit Card
+ORD00466,2025-07-12,CUST0009,60.0,Corporate,West,Online,Furniture,Desk,6,515.58,0.2,2474.78,1718.39,756.4,Cash
+ORD00467,2025-07-17,CUST0024,55.0,Small Business,West,Retail Store,Office Supplies,Stapler,8,24.08,0.05,183.01,112.57,70.44,Credit Card
+ORD00468,2025-10-13,CUST0042,28.0,Corporate,Central,Retail Store,Office Supplies,Notebook,3,6.5,0.2,15.6,10.66,4.94,Bank Transfer
+ORD00469,2025-09-30,CUST0291,63.0,Small Business,North,Distributor,Furniture,Office Chair,2,481.36,0.02,943.47,550.45,393.01,UPI
+ORD00470,2025-07-17,CUST0061,18.0,Consumer,Central,Online,Furniture,Meeting Table,5,338.47,0.15,1438.5,1125.05,313.44,UPI
+ORD00471,2025-09-30,CUST0162,40.0,Small Business,North,Online,Furniture,Cabinet,10,484.72,0.05,4604.84,2885.99,1718.85,Bank Transfer
+ORD00472,2025-01-02,CUST0129,34.0,Corporate,South,Retail Store,Home & Kitchen,Cookware Set,7,200.91,0.05,1336.05,971.01,365.04,Cash
+ORD00473,2025-02-14,CUST0044,40.0,Small Business,North,Online,Home & Kitchen,Coffee Maker,2,71.86,0.2,114.98,92.9,22.07,Debit Card
+ORD00474,2025-02-24,CUST0097,22.0,Consumer,East,Retail Store,Office Supplies,Printer Paper,4,23.37,0.15,79.46,60.08,19.38,Cash
+ORD00475,2025-02-03,CUST0082,58.0,Consumer,North,Retail Store,Home & Kitchen,Coffee Maker,3,241.99,0.15,617.07,443.59,173.48,UPI
+ORD00476,2025-04-13,CUST0126,43.0,Small Business,South,Retail Store,Office Supplies,Notebook,4,7.02,0.2,22.46,17.29,5.17,Debit Card
+ORD00477,2025-11-03,CUST0187,49.0,Consumer,West,Online,Clothing,T-Shirt,3,34.17,0.02,100.46,60.49,39.97,UPI
+ORD00478,2025-07-18,CUST0203,42.0,Small Business,Central,Retail Store,Furniture,Desk,4,267.1,0.02,1047.03,596.3,450.73,Bank Transfer
+ORD00479,2025-02-10,CUST0137,50.0,Corporate,Central,Online,Furniture,Office Chair,5,343.93,0.2,1375.72,1071.97,303.75,Credit Card
+ORD00480,2025-06-17,CUST0152,38.0,Small Business,South,Retail Store,Clothing,T-Shirt,2,20.02,0.2,32.03,25.27,6.76,Cash
+ORD00481,2025-04-11,CUST0223,34.0,Corporate,Central,Retail Store,Furniture,Meeting Table,10,1088.95,0.1,9800.55,7400.91,2399.64,Credit Card
+ORD00482,2025-04-18,CUST0247,32.0,Consumer,North,Distributor,Clothing,Jeans,8,75.18,0.05,571.37,347.66,223.7,UPI
+ORD00483,2025-06-03,CUST0298,35.0,Consumer,West,Distributor,Office Supplies,Printer Paper,9,27.98,0.02,246.78,159.16,87.62,Cash
+ORD00484,2025-12-29,CUST0046,43.0,Small Business,North,Online,Office Supplies,Notebook,1,6.59,0.05,6.26,4.46,1.8,UPI
+ORD00485,2025-01-25,CUST0134,33.0,Corporate,South,Online,Clothing,Sneakers,1,144.28,0.0,144.28,97.44,46.84,Debit Card
+ORD00486,2025-11-30,CUST0068,62.0,Corporate,North,Distributor,Clothing,T-Shirt,10,24.86,0.02,243.63,140.98,102.65,Bank Transfer
+ORD00487,2025-08-06,CUST0066,30.0,Consumer,West,Retail Store,Home & Kitchen,Coffee Maker,1,289.28,0.1,260.35,179.11,81.24,Debit Card
+ORD00488,2025-09-11,CUST0183,37.0,Corporate,West,Distributor,Furniture,Office Chair,7,243.18,0.0,1702.26,1367.69,334.57,Bank Transfer
+ORD00489,2025-02-13,CUST0180,23.0,Corporate,Central,Retail Store,Clothing,Jeans,3,107.0,0.02,314.58,182.21,132.37,Cash
+ORD00490,2025-09-19,CUST0011,60.0,Small Business,West,Distributor,Office Supplies,Folders,7,9.69,0.05,64.44,50.19,14.25,Cash
+ORD00491,2025-01-09,CUST0149,23.0,Consumer,East,Retail Store,Office Supplies,Printer Paper,5,23.5,0.15,99.88,56.05,43.82,Credit Card
+ORD00492,2025-02-04,CUST0145,61.0,Corporate,South,Online,Electronics,Monitor,10,466.95,0.15,3969.08,3063.5,905.57,Debit Card
+ORD00493,2025-12-20,CUST0130,39.0,Consumer,South,Retail Store,Office Supplies,Pens,7,10.68,0.1,67.28,50.22,17.06,Credit Card
+ORD00494,2025-11-03,CUST0139,29.0,Small Business,East,Retail Store,Clothing,T-Shirt,6,47.45,0.15,242.0,167.64,74.36,Credit Card
+ORD00495,2025-04-22,CUST0242,59.0,Consumer,West,Online,Clothing,Sneakers,5,141.92,0.1,638.64,464.77,173.87,Bank Transfer
+ORD00496,2025-08-04,CUST0145,43.0,Consumer,North,Retail Store,Home & Kitchen,Storage Box,7,19.58,0.1,123.35,79.05,44.31,Cash
+ORD00497,2025-04-30,CUST0289,38.0,Corporate,Central,Retail Store,Office Supplies,Printer Paper,3,6.58,0.02,19.35,13.03,6.32,Credit Card
+ORD00498,2025-12-18,CUST0032,44.0,Corporate,West,Retail Store,Office Supplies,Printer Paper,9,6.87,0.1,55.65,43.05,12.6,Debit Card
+ORD00499,2025-02-26,CUST0232,40.0,Corporate,West,Distributor,Furniture,Desk,7,453.06,0.02,3107.99,1747.28,1360.71,Cash
+ORD00500,2025-08-14,CUST0177,35.0,Small Business,West,Retail Store,Electronics,Headphones,1,97.74,0.15,83.08,53.92,29.16,Cash
+ORD00501,2025-01-13,CUST0279,36.0,Corporate,North,Online,Office Supplies,Printer Paper,4,29.25,0.0,117.0,73.51,43.49,upi
+ORD00502,2025-01-18,CUST0090,43.0,Consumer,North,Distributor,Office Supplies,Notebook,2,4.15,0.15,7.06,4.53,2.52,Cash
+ORD00503,2025-04-18,CUST0127,30.0,Corporate,West,Retail Store,Office Supplies,Printer Paper,2,17.87,0.05,33.95,25.04,8.91,Cash
+ORD00504,2025-07-07,CUST0169,54.0,Small Business,North,Online,Home & Kitchen,Coffee Maker,7,262.74,0.2,1471.34,885.5,585.85,Cash
+ORD00505,2025-12-21,CUST0151,23.0,Consumer,West,Distributor,Home & Kitchen,Coffee Maker,8,261.24,0.1,1880.93,1387.87,493.06,Credit Card
+ORD00506,2025-05-31,CUST0090,21.0,Corporate,East,Retail Store,Home & Kitchen,Storage Box,1,42.8,0.05,40.66,22.74,17.92,Cash
+ORD00507,2025-09-01,CUST0103,22.0,Small Business,West,Retail Store,Home & Kitchen,Blender,5,52.14,0.2,208.56,125.23,83.33,Debit Card
+ORD00508,2025-11-20,CUST0074,24.0,Consumer,Central,Online,Furniture,Meeting Table,10,908.96,0.2,7271.68,5824.17,1447.51,Credit Card
+ORD00509,2025-03-24,CUST0292,29.0,Corporate,East,Distributor,Office Supplies,Notebook,5,5.83,0.15,24.78,17.93,6.85,Bank Transfer
+ORD00510,2025-01-09,CUST0121,35.0,Consumer,Central,Distributor,Electronics,Keyboard,5,51.07,0.05,242.58,168.96,73.63,UPI
+ORD00511,2025-07-26,CUST0001,33.0,Corporate,West,Online,Furniture,Office Chair,9,337.22,0.15,2579.73,1620.32,959.41,Bank Transfer
+ORD00512,2025-06-23,CUST0150,56.0,Corporate,South,Online,Furniture,Office Chair,8,259.99,0.05,1975.92,1267.59,708.34,Debit Card
+ORD00513,2025-02-18,CUST0027,51.0,Small Business,East,Retail Store,Clothing,T-Shirt,4,27.7,0.02,108.58,76.79,31.8,Credit Card
+ORD00514,2025-12-08,CUST0186,29.0,Consumer,South,Distributor,Clothing,Shirt,3,60.66,0.2,145.58,114.43,31.16,Cash
+ORD00515,2025-05-25,CUST0206,30.0,Consumer,South,Retail Store,Home & Kitchen,Cookware Set,5,60.92,0.15,258.91,185.4,73.51,UPI
+ORD00516,2025-10-27,CUST0055,21.0,Consumer,North,Retail Store,Clothing,Shirt,3,78.65,0.15,200.56,154.74,45.82,UPI
+ORD00517,2025-01-10,CUST0085,38.0,Small Business,East,Online,Furniture,Desk,7,364.0,0.15,2165.8,1355.99,809.81,Credit Card
+ORD00518,2025-07-04,CUST0161,57.0,Consumer,West,Distributor,Home & Kitchen,Blender,5,43.06,0.02,210.99,132.58,78.41,UPI
+ORD00519,2025-04-18,CUST0219,23.0,Small Business,South,Online,Home & Kitchen,Blender,1,119.58,0.1,107.62,82.01,25.61,Credit Card
+ORD00520,2025-07-01,CUST0093,38.0,Consumer,North,Distributor,Home & Kitchen,Cookware Set,8,235.38,0.2,1506.43,943.46,562.97,Debit Card
+ORD00521,2025-10-04,CUST0055,57.0,Consumer,East,Online,Office Supplies,Notebook,3,14.99,0.02,44.07,29.47,14.6,UPI
+ORD00522,2025-07-03,CUST0275,30.0,Consumer,East,Distributor,Clothing,Shirt,2,33.65,0.15,57.2,43.73,13.48,Credit Card
+ORD00523,2025-01-17,CUST0246,19.0,Small Business,East,Distributor,Office Supplies,Printer Paper,4,29.02,0.0,116.08,86.82,29.26,Bank Transfer
+ORD00524,2025-07-16,CUST0146,26.0,Consumer,West,Distributor,Office Supplies,Notebook,8,13.59,0.15,92.41,53.42,39.0,Bank Transfer
+ORD00525,2025-10-13,CUST0252,40.0,Small Business,East,Online,Furniture,Office Chair,2,367.2,0.0,734.4,472.72,261.68,Credit Card
+ORD00526,2025-10-10,CUST0109,29.0,Consumer,East,Online,Electronics,Keyboard,3,82.94,0.2,199.06,119.56,79.5,Bank Transfer
+ORD00527,2025-12-08,CUST0082,49.0,Corporate,South,Retail Store,Electronics,Smartphone,7,460.85,0.1,2903.36,2109.79,793.56,UPI
+ORD00528,2025-02-07,CUST0255,26.0,Small Business,East,Online,Clothing,Jeans,2,63.48,0.1,114.26,70.37,43.89,UPI
+ORD00529,2025-07-23,CUST0068,31.0,Small Business,South,Online,Office Supplies,Pens,4,11.91,0.1,42.88,24.18,18.7,Bank Transfer
+ORD00530,2025-04-18,CUST0074,55.0,Corporate,South,Distributor,Electronics,Laptop,10,1247.3,0.15,10602.05,7007.96,3594.09,Bank Transfer
+ORD00531,2025-10-24,CUST0045,56.0,Small Business,East,Retail Store,Clothing,Jeans,7,100.77,0.2,564.31,385.35,178.96,Debit Card
+ORD00532,2025-12-23,CUST0093,20.0,Small Business,South,Distributor,Furniture,Bookshelf,6,147.51,0.02,867.36,494.06,373.29,Debit Card
+ORD00533,2025-08-19,CUST0205,36.0,Corporate,North,Retail Store,Electronics,Headphones,4,177.1,0.02,694.23,383.21,311.02,Cash
+ORD00534,2025-09-16,CUST0296,54.0,Consumer,West,Distributor,Office Supplies,Folders,4,9.65,0.05,36.67,22.82,13.85,UPI
+ORD00535,2025-08-20,CUST0180,34.0,Small Business,North,Retail Store,Home & Kitchen,Cookware Set,6,199.32,0.0,1195.92,660.93,534.99,Credit Card
+ORD00536,2025-04-17,CUST0297,29.0,Small Business,East,Distributor,Furniture,Cabinet,10,188.01,0.2,1504.08,1228.22,275.86,Cash
+ORD00537,2025-12-19,CUST0005,33.0,Corporate,North,Distributor,Electronics,Headphones,8,183.63,0.02,1439.66,976.23,463.43,Cash
+ORD00538,2025-12-28,CUST0066,20.0,Corporate,West,Online,Furniture,Bookshelf,5,311.11,0.02,1524.44,1040.95,483.49,UPI
+ORD00539,2025-07-18,CUST0070,28.0,Consumer,North,Distributor,Electronics,Keyboard,2,61.97,0.0,123.94,71.72,52.22,Cash
+ORD00540,2025-03-13,CUST0274,50.0,Consumer,Central,Distributor,Furniture,Cabinet,1,156.98,0.15,133.43,82.46,50.97,Debit Card
+ORD00541,2025-05-03,CUST0098,40.0,Corporate,West,Retail Store,Home & Kitchen,Storage Box,10,40.45,0.02,396.41,280.64,115.77,Credit Card
+ORD00542,2025-11-21,CUST0128,56.0,Consumer,West,Online,Clothing,Jeans,9,77.54,0.05,662.97,378.11,284.86,Cash
+ORD00543,2025-08-14,CUST0064,49.0,Small Business,Central,Distributor,Furniture,Meeting Table,5,420.18,0.1,1890.81,1332.05,558.76,Debit Card
+ORD00544,2025-01-03,CUST0021,50.0,Small Business,Central,Distributor,Home & Kitchen,Storage Box,7,21.94,0.1,138.22,103.09,35.13,Debit Card
+ORD00545,2025-07-12,CUST0043,48.0,Small Business,East,Distributor,Furniture,Bookshelf,2,109.37,0.05,207.8,157.37,50.43,Bank Transfer
+ORD00546,2025-05-06,CUST0188,27.0,Consumer,West,Online,Clothing,Jacket,2,81.9,0.02,160.52,106.79,53.73,Cash
+ORD00547,2025-03-26,CUST0218,23.0,Small Business,North,Distributor,Home & Kitchen,Coffee Maker,4,118.79,0.2,380.13,258.12,122.01,Credit Card
+ORD00548,2025-01-26,CUST0259,32.0,Corporate,Central,Online,Home & Kitchen,Storage Box,6,56.36,0.1,304.34,168.37,135.98,UPI
+ORD00549,2025-05-29,CUST0174,44.0,Corporate,South,Retail Store,Clothing,Sneakers,7,102.87,0.05,684.09,482.04,202.05,Debit Card
+ORD00550,2025-07-18,CUST0249,38.0,Small Business,Central,Retail Store,Electronics,Monitor,1,308.37,0.15,262.11,187.03,75.08,Bank Transfer
+ORD00551,2025-10-12,CUST0166,54.0,Consumer,West,Online,Home & Kitchen,Blender,10,52.79,0.02,517.34,286.98,230.36,Credit Card
+ORD00552,2025-08-04,CUST0220,46.0,Corporate,Central,Online,Home & Kitchen,Blender,9,115.79,0.05,990.0,711.74,278.27,UPI
+ORD00553,2025-12-27,CUST0129,63.0,Corporate,East,Online,Home & Kitchen,Storage Box,10,72.52,0.1,652.68,492.77,159.91,Debit Card
+ORD00554,2025-03-08,CUST0082,23.0,Corporate,Central,Retail Store,Furniture,Desk,6,269.67,0.15,1375.32,782.71,592.61,Cash
+ORD00555,2025-03-06,CUST0259,18.0,Consumer,North,Online,Furniture,Cabinet,4,436.42,0.1,1571.11,1110.06,461.05,Cash
+ORD00556,2025-02-04,CUST0271,34.0,Small Business,West,Retail Store,Office Supplies,Stapler,1,5.96,0.02,5.84,4.62,1.22,UPI
+ORD00557,2025-03-09,CUST0103,52.0,Consumer,East,Retail Store,Electronics,Smartphone,10,793.68,0.05,7539.96,4151.71,3388.25,Cash
+ORD00558,2025-02-08,CUST0002,43.0,Small Business,East,Online,Electronics,Smartphone,7,255.45,0.05,1698.74,1368.8,329.95,Credit Card
+ORD00559,2025-10-15,CUST0036,18.0,Consumer,West,Distributor,Electronics,Keyboard,5,90.94,0.1,409.23,258.64,150.59,Bank Transfer
+ORD00560,2025-11-21,CUST0181,41.0,Corporate,East,Online,Electronics,Laptop,3,1014.78,0.0,3044.34,1836.47,1207.87,UPI
+ORD00561,2025-06-18,CUST0285,19.0,Corporate,South,Distributor,Clothing,Shirt,4,31.51,0.15,107.13,59.43,47.7,Cash
+ORD00562,2025-02-18,CUST0002,63.0,Corporate,Central,Online,Furniture,Meeting Table,3,687.89,0.0,2063.67,1684.19,379.48,UPI
+ORD00563,2025-05-24,CUST0106,24.0,Consumer,West,Distributor,Office Supplies,Notebook,5,12.37,0.02,60.61,42.72,17.89,Bank Transfer
+ORD00564,2025-04-10,CUST0143,46.0,Consumer,South,Retail Store,Furniture,Bookshelf,10,135.93,0.0,1359.3,1012.25,347.05,Cash
+ORD00565,2025-08-30,CUST0114,61.0,Consumer,North,Retail Store,Furniture,Meeting Table,4,912.5,0.02,3577.0,2913.63,663.37,UPI
+ORD00566,2025-02-27,CUST0092,55.0,Consumer,North,Distributor,Furniture,Meeting Table,10,821.64,0.1,7394.76,5390.57,2004.19,Cash
+ORD00567,2025-03-10,CUST0114,59.0,Consumer,Central,Retail Store,Clothing,Sneakers,2,51.75,0.1,93.15,64.35,28.8,Credit Card
+ORD00568,2025-10-13,CUST0179,19.0,Corporate,North,Retail Store,Clothing,Sneakers,9,154.23,0.15,1179.86,812.84,367.02,UPI
+ORD00569,2025-05-10,CUST0130,58.0,Corporate,Central,Distributor,Home & Kitchen,Cookware Set,7,77.55,0.0,542.85,383.69,159.16,Bank Transfer
+ORD00570,2025-10-27,CUST0255,42.0,Small Business,South,Online,Furniture,Meeting Table,10,1058.65,0.02,10374.77,7106.81,3267.96,Debit Card
+ORD00571,2025-02-22,CUST0011,59.0,Corporate,East,Online,Office Supplies,Folders,9,3.58,0.2,25.78,19.15,6.62,Bank Transfer
+ORD00572,2025-02-15,CUST0030,47.0,Corporate,West,Distributor,Furniture,Desk,4,250.37,0.1,901.33,674.85,226.48,Debit Card
+ORD00573,2025-10-08,CUST0026,28.0,Consumer,East,Distributor,Furniture,Office Chair,3,483.63,0.1,1305.8,1051.54,254.26,UPI
+ORD00574,2025-06-16,CUST0016,50.0,Consumer,West,Online,Office Supplies,Pens,10,11.32,0.15,96.22,71.94,24.28,UPI
+ORD00575,2025-06-26,CUST0235,39.0,Consumer,South,Online,Furniture,Cabinet,10,275.86,0.1,2482.74,1728.32,754.42,Cash
+ORD00576,2025-02-08,CUST0134,18.0,Corporate,North,Retail Store,Furniture,Desk,10,186.22,0.15,1582.87,994.94,587.93,Credit Card
+ORD00577,2025-11-26,CUST0246,46.0,Small Business,North,Retail Store,Furniture,Desk,9,617.15,0.1,4998.91,3871.99,1126.93,Debit Card
+ORD00578,2025-05-31,CUST0183,30.0,Consumer,South,Online,Furniture,Cabinet,6,415.77,0.05,2369.89,1419.66,950.23,Cash
+ORD00579,2025-09-26,CUST0120,51.0,Small Business,South,Retail Store,Office Supplies,Notebook,2,4.97,0.0,9.94,6.49,3.45,UPI
+ORD00580,2025-05-13,CUST0092,47.0,Small Business,East,Online,Office Supplies,Notebook,2,11.58,0.0,23.16,18.82,4.34,Bank Transfer
+ORD00581,2025-10-20,CUST0174,39.0,Small Business,Central,Distributor,Home & Kitchen,Coffee Maker,9,75.11,0.02,662.47,486.83,175.64,Bank Transfer
+ORD00582,2025-10-26,CUST0166,49.0,Consumer,South,Retail Store,Home & Kitchen,Lamp,10,102.58,0.0,1025.8,638.65,387.15,UPI
+ORD00583,2025-09-13,CUST0087,20.0,Consumer,North,Retail Store,Office Supplies,Printer Paper,10,29.51,0.2,236.08,153.35,82.73,Debit Card
+ORD00584,2025-07-17,CUST0076,34.0,Consumer,West,Retail Store,Home & Kitchen,Blender,10,56.21,0.05,534.0,428.72,105.28,UPI
+ORD00585,2025-03-10,CUST0216,28.0,Consumer,North,Distributor,Clothing,Jeans,6,48.08,0.2,230.78,162.29,68.49,Cash
+ORD00586,2025-05-10,CUST0058,52.0,Small Business,North,Distributor,Electronics,Headphones,7,295.37,0.0,2067.59,1471.77,595.82,Debit Card
+ORD00587,2025-02-07,CUST0169,42.0,Corporate,West,Online,Home & Kitchen,Cookware Set,4,158.4,0.15,538.56,407.47,131.09,Debit Card
+ORD00588,2025-01-13,CUST0278,52.0,Consumer,East,Retail Store,Electronics,Monitor,3,441.72,0.15,1126.39,641.68,484.7,Bank Transfer
+ORD00589,2025-11-05,CUST0016,22.0,Small Business,West,Retail Store,Home & Kitchen,Blender,3,152.52,0.1,411.8,300.91,110.9,Credit Card
+ORD00590,2025-09-13,CUST0077,57.0,Consumer,West,Distributor,Furniture,Cabinet,10,308.99,0.0,3089.9,1783.84,1306.06,Debit Card
+ORD00591,2025-11-15,CUST0146,33.0,Corporate,Central,Retail Store,Clothing,Jacket,4,185.43,0.0,741.72,582.91,158.81,Credit Card
+ORD00592,2025-01-29,CUST0279,32.0,Corporate,Central,Online,Clothing,Jeans,7,34.01,0.05,226.17,174.14,52.03,Credit Card
+ORD00593,2025-10-02,CUST0289,30.0,Small Business,Central,Distributor,Electronics,Monitor,4,577.63,0.2,1848.42,1185.62,662.8,Debit Card
+ORD00594,2025-01-19,CUST0196,52.0,Corporate,East,Retail Store,Furniture,Office Chair,6,233.32,0.0,1399.92,896.22,503.7,Cash
+ORD00595,2025-09-10,CUST0012,33.0,Small Business,North,Retail Store,Furniture,Desk,10,652.56,0.15,5546.76,3485.57,2061.19,UPI
+ORD00596,2025-10-15,CUST0092,41.0,Corporate,North,Online,Office Supplies,Notebook,4,11.07,0.0,44.28,26.82,17.46,UPI
+ORD00597,2025-04-13,CUST0237,18.0,Small Business,North,Retail Store,Home & Kitchen,Storage Box,4,26.63,0.2,85.22,67.97,17.25,Cash
+ORD00598,2025-09-12,CUST0224,41.0,Small Business,South,Distributor,Furniture,Office Chair,6,179.28,0.2,860.54,538.77,321.77,UPI
+ORD00599,2025-07-10,CUST0037,49.0,Consumer,East,Retail Store,Electronics,Keyboard,8,30.65,0.15,208.42,121.79,86.63,Bank Transfer
+ORD00600,2025-07-01,CUST0267,36.0,Corporate,South,Distributor,Furniture,Office Chair,8,363.56,0.1,2617.63,1710.66,906.97,Cash
+ORD00601,2025-01-15,CUST0130,54.0,Consumer,East,Retail Store,Electronics,Keyboard,3,114.58,0.1,309.37,186.44,122.93,Cash
+ORD00602,2025-10-06,CUST0139,28.0,Corporate,East,Retail Store,Clothing,Shirt,2,55.79,0.2,89.26,51.71,37.56,Bank Transfer
+ORD00603,2025-04-28,CUST0181,26.0,Small Business,South,Distributor,Home & Kitchen,Coffee Maker,2,92.03,0.2,147.25,104.04,43.21,UPI
+ORD00604,2025-06-20,CUST0069,38.0,Corporate,East,Retail Store,Clothing,Jacket,5,54.87,0.02,268.86,200.86,68.0,Bank Transfer
+ORD00605,2025-04-11,CUST0043,35.0,Corporate,Central,Distributor,Clothing,Shirt,9,61.67,0.0,555.03,347.13,207.9,Credit Card
+ORD00606,2025-12-03,CUST0262,61.0,Corporate,West,Retail Store,Furniture,Bookshelf,2,362.37,0.02,710.25,459.69,250.56,Credit Card
+ORD00607,2025-10-17,CUST0156,41.0,Corporate,East,Retail Store,Office Supplies,Printer Paper,8,7.31,0.2,46.78,36.37,10.41,Credit Card
+ORD00608,2025-06-12,CUST0220,59.0,Consumer,West,Distributor,Clothing,Sneakers,6,168.81,0.02,992.6,636.31,356.3,Bank Transfer
+ORD00609,2025-04-10,CUST0007,51.0,Consumer,Central,Online,Furniture,Meeting Table,4,923.26,0.05,3508.39,2669.02,839.37,Debit Card
+ORD00610,2025-05-12,CUST0197,61.0,Corporate,South,Distributor,Clothing,Shirt,5,28.54,0.02,139.85,95.54,44.31,Credit Card
+ORD00611,2025-03-24,CUST0189,57.0,Small Business,West,Distributor,Office Supplies,Stapler,10,8.49,0.02,83.2,65.84,17.36,UPI
+ORD00612,2025-07-29,CUST0039,59.0,Consumer,North,Retail Store,Furniture,Desk,9,623.99,0.05,5335.11,3058.39,2276.72,Credit Card
+ORD00613,2025-09-12,CUST0022,64.0,Consumer,West,Retail Store,Office Supplies,Printer Paper,3,15.01,0.05,42.78,28.99,13.79,Credit Card
+ORD00614,2025-11-06,CUST0258,57.0,Small Business,East,Online,Office Supplies,Folders,2,19.57,0.1,35.23,28.32,6.9,Bank Transfer
+ORD00615,2025-08-24,CUST0155,50.0,Corporate,Central,Distributor,Electronics,Smartphone,10,652.75,0.02,6396.95,4946.47,1450.48,Bank Transfer
+ORD00616,2025-09-30,CUST0199,51.0,Corporate,North,Distributor,Electronics,Monitor,8,322.78,0.15,2194.9,1437.99,756.92,Credit Card
+ORD00617,2025-07-09,CUST0049,39.0,Corporate,South,Distributor,Home & Kitchen,Cookware Set,3,189.67,0.1,512.11,348.76,163.35,UPI
+ORD00618,2025-09-30,CUST0009,63.0,Small Business,North,Retail Store,Home & Kitchen,Lamp,2,21.76,0.1,39.17,24.39,14.78,Bank Transfer
+ORD00619,2025-12-07,CUST0276,23.0,Corporate,Central,Online,Electronics,Keyboard,5,45.28,0.02,221.87,143.6,78.28,UPI
+ORD00620,2025-01-12,CUST0039,42.0,Consumer,South,Retail Store,Electronics,Smartphone,9,868.67,0.05,7427.13,5163.98,2263.15,UPI
+ORD00621,2025-02-25,CUST0235,47.0,Consumer,West,Distributor,Home & Kitchen,Coffee Maker,8,73.6,0.0,588.8,426.42,162.38,Bank Transfer
+ORD00622,2025-11-27,CUST0128,46.0,Corporate,North,Distributor,Clothing,Shirt,6,30.48,0.15,155.45,107.25,48.2,UPI
+ORD00623,2025-08-21,CUST0145,30.0,Consumer,South,Online,Office Supplies,Printer Paper,10,16.17,0.0,161.7,109.27,52.43,Bank Transfer
+ORD00624,2025-05-23,CUST0224,29.0,Corporate,North,Online,Furniture,Meeting Table,2,866.48,0.1,1559.66,938.96,620.7,Cash
+ORD00625,2025-01-31,CUST0099,60.0,Corporate,Central,Online,Office Supplies,Notebook,5,3.47,0.15,14.75,10.22,4.53,Cash
+ORD00626,2025-03-27,CUST0238,50.0,Small Business,North,Retail Store,Office Supplies,Folders,7,7.52,0.02,51.59,34.54,17.04,Credit Card
+ORD00627,2025-09-11,CUST0166,37.0,Corporate,Central,Distributor,Office Supplies,Stapler,1,22.14,0.05,21.03,14.54,6.5,Credit Card
+ORD00628,2025-11-28,CUST0224,26.0,Small Business,North,Online,Home & Kitchen,Storage Box,10,75.85,0.1,682.65,510.98,171.67,Debit Card
+ORD00629,2025-08-18,CUST0244,22.0,Corporate,North,Online,Furniture,Cabinet,3,332.64,0.02,977.96,608.72,369.24,Debit Card
+ORD00630,2025-03-11,CUST0046,40.0,Consumer,East,Retail Store,Office Supplies,Printer Paper,5,27.04,0.1,121.68,71.07,50.61,Credit Card
+ORD00631,2025-06-27,CUST0034,57.0,Small Business,South,Distributor,Office Supplies,Stapler,7,5.65,0.15,33.62,21.11,12.51,Credit Card
+ORD00632,2025-11-08,CUST0113,20.0,Consumer,North,Retail Store,Furniture,Desk,7,429.72,0.2,2406.43,1768.74,637.69,UPI
+ORD00633,2025-12-06,CUST0177,61.0,Consumer,South,Distributor,Clothing,Shirt,10,91.24,0.05,866.78,537.9,328.88,UPI
+ORD00634,2025-07-09,CUST0082,34.0,Consumer,South,Online,Clothing,Jeans,6,70.42,0.05,401.39,299.62,101.78,Bank Transfer
+ORD00635,2025-06-29,CUST0129,29.0,Small Business,East,Retail Store,Home & Kitchen,Lamp,6,72.76,0.02,427.83,316.86,110.97,Cash
+ORD00636,2025-05-07,CUST0011,46.0,Consumer,South,Distributor,Electronics,Keyboard,4,77.68,0.0,310.72,210.7,100.02,Credit Card
+ORD00637,2025-08-08,CUST0080,40.0,Consumer,North,Retail Store,Electronics,Keyboard,4,105.59,0.1,380.12,303.82,76.31,UPI
+ORD00638,2025-03-16,CUST0016,21.0,Small Business,South,Online,Electronics,Keyboard,2,23.96,0.0,47.92,36.61,11.31,UPI
+ORD00639,2025-03-18,CUST0071,58.0,Corporate,Central,Retail Store,Home & Kitchen,Storage Box,3,79.9,0.2,191.76,105.94,85.82,UPI
+ORD00640,2025-10-02,CUST0092,23.0,Corporate,West,Online,Electronics,Monitor,7,451.19,0.02,3095.16,2510.73,584.43,Credit Card
+ORD00641,2025-09-19,CUST0052,45.0,Corporate,South,Online,Electronics,Laptop,1,1196.36,0.05,1136.54,722.46,414.08,UPI
+ORD00642,2025-04-03,CUST0153,43.0,Consumer,West,Online,Office Supplies,Printer Paper,1,5.65,0.2,4.52,2.88,1.64,Cash
+ORD00643,2025-05-29,CUST0161,54.0,Corporate,Central,Retail Store,Furniture,Meeting Table,6,470.94,0.1,2543.08,1784.65,758.42,Credit Card
+ORD00644,2025-08-08,CUST0124,36.0,Consumer,East,Retail Store,Clothing,T-Shirt,8,18.5,0.1,133.2,99.86,33.34,Credit Card
+ORD00645,2025-05-21,CUST0152,43.0,Consumer,North,Distributor,Furniture,Desk,1,434.47,0.05,412.75,266.71,146.03,Cash
+ORD00646,2025-01-12,CUST0203,60.0,Consumer,West,Online,Office Supplies,Pens,3,17.38,0.2,41.71,29.14,12.57,Credit Card
+ORD00647,2025-12-22,CUST0293,40.0,Small Business,West,Retail Store,Electronics,Laptop,10,974.72,0.05,9259.84,6606.62,2653.22,UPI
+ORD00648,2025-05-05,CUST0106,41.0,Small Business,South,Retail Store,Electronics,Smartphone,8,928.49,0.0,7427.92,5058.19,2369.73,Cash
+ORD00649,2025-09-24,CUST0146,56.0,Corporate,West,Distributor,Electronics,Keyboard,10,146.45,0.1,1318.05,961.86,356.19,UPI
+ORD00650,2025-09-23,CUST0056,55.0,Corporate,West,Distributor,Electronics,Smartphone,9,269.3,0.15,2060.15,1408.19,651.95,UPI
+ORD00651,2025-10-30,CUST0088,,Corporate,North,Retail Store,Office Supplies,Folders,10,18.28,0.2,146.24,93.09,53.15,Debit Card
+ORD00652,2025-04-04,CUST0213,28.0,Consumer,South,Retail Store,Furniture,Cabinet,10,308.98,0.2,2471.84,1599.11,872.73,Credit Card
+ORD00653,2025-10-05,CUST0203,18.0,Corporate,West,Retail Store,Clothing,Sneakers,8,165.09,0.1,1188.65,934.03,254.62,Credit Card
+ORD00654,2025-01-26,CUST0163,63.0,Corporate,South,Online,Clothing,Sneakers,8,125.05,0.2,800.32,602.75,197.57,Credit Card
+ORD00655,2025-10-22,CUST0204,60.0,Consumer,South,Retail Store,Office Supplies,Folders,10,14.8,0.2,118.4,90.38,28.02,UPI
+ORD00656,2025-02-25,CUST0231,59.0,Corporate,Central,Online,Furniture,Desk,3,631.57,0.0,1894.71,1334.31,560.4,Debit Card
+ORD00657,2025-02-18,CUST0168,37.0,Consumer,North,Distributor,Clothing,Jacket,2,95.42,0.2,152.67,111.24,41.44,Cash
+ORD00658,2025-07-23,CUST0126,56.0,Small Business,South,Retail Store,Home & Kitchen,Cookware Set,6,149.64,0.02,879.88,505.16,374.72,Credit Card
+ORD00659,2025-06-14,CUST0286,43.0,Consumer,Central,Online,Home & Kitchen,Blender,7,164.16,0.05,1091.66,883.83,207.83,Cash
+ORD00660,2025-05-12,CUST0194,42.0,Consumer,Central,Retail Store,Clothing,Shirt,9,41.77,0.02,368.41,291.01,77.4,Cash
+ORD00661,2025-05-05,CUST0271,59.0,Consumer,South,Online,Electronics,Smartphone,3,313.24,0.0,939.72,535.64,404.08,Cash
+ORD00662,2025-11-16,CUST0162,24.0,Small Business,North,Online,Office Supplies,Notebook,10,11.7,0.2,93.6,55.92,37.68,Bank Transfer
+ORD00663,2025-07-07,CUST0014,51.0,Small Business,Central,Retail Store,Electronics,Keyboard,1,28.21,0.05,26.8,21.29,5.51,Credit Card
+ORD00664,2025-02-05,CUST0101,33.0,Corporate,Central,Distributor,Clothing,Shirt,8,70.8,0.02,555.07,348.34,206.73,Bank Transfer
+ORD00665,2025-09-14,CUST0105,32.0,Consumer,Central,Online,Home & Kitchen,Coffee Maker,7,197.04,0.02,1351.69,889.43,462.27,Bank Transfer
+ORD00666,2025-08-19,CUST0080,37.0,Corporate,Central,Online,Furniture,Cabinet,1,530.94,0.02,520.32,330.7,189.62,Credit Card
+ORD00667,2025-12-20,CUST0123,28.0,Corporate,Central,Retail Store,Electronics,Keyboard,1,145.01,0.0,145.01,94.06,50.95,Bank Transfer
+ORD00668,2025-11-11,CUST0130,23.0,Consumer,South,Distributor,Electronics,Laptop,5,926.32,0.15,3936.86,3010.9,925.96,Credit Card
+ORD00669,2025-10-08,CUST0074,39.0,Consumer,East,Retail Store,Home & Kitchen,Blender,6,72.98,0.02,429.12,344.02,85.11,Bank Transfer
+ORD00670,2025-01-01,CUST0114,30.0,Corporate,Central,Retail Store,Furniture,Desk,10,188.95,0.1,1700.55,1350.42,350.13,Cash
+ORD00671,2025-10-04,CUST0115,27.0,Consumer,South,Retail Store,Office Supplies,Pens,4,14.07,0.1,50.65,34.89,15.76,Debit Card
+ORD00672,2025-07-15,CUST0241,56.0,Small Business,South,Distributor,Furniture,Cabinet,6,353.75,0.2,1698.0,1292.09,405.91,Credit Card
+ORD00673,2025-05-08,CUST0169,42.0,Corporate,South,Distributor,Home & Kitchen,Lamp,9,115.61,0.05,988.47,564.4,424.07,UPI
+ORD00674,2025-06-05,CUST0182,58.0,Small Business,Central,Distributor,Clothing,Sneakers,2,84.09,0.0,168.18,120.65,47.53,Cash
+ORD00675,2025-04-06,CUST0132,58.0,Consumer,South,Online,Furniture,Bookshelf,2,219.1,0.2,350.56,199.92,150.64,Credit Card
+ORD00676,2025-02-14,CUST0285,19.0,Small Business,North,Online,Office Supplies,Printer Paper,6,5.12,0.1,27.65,19.02,8.63,UPI
+ORD00677,2025-11-06,CUST0200,35.0,Corporate,South,Distributor,Furniture,Cabinet,2,291.78,0.0,583.56,428.19,155.37,Credit Card
+ORD00678,2025-08-16,CUST0276,26.0,Corporate,North,Online,Clothing,Jacket,6,89.38,0.0,536.28,303.38,232.9,Cash
+ORD00679,2025-06-04,CUST0139,64.0,Corporate,West,Distributor,Office Supplies,Folders,4,7.96,0.1,28.66,17.39,11.27,Bank Transfer
+ORD00680,2025-10-31,CUST0275,59.0,Corporate,South,Distributor,Home & Kitchen,Storage Box,9,38.21,0.15,292.31,194.48,97.83,Cash
+ORD00681,2025-09-02,CUST0142,39.0,Corporate,South,Retail Store,Office Supplies,Notebook,10,8.7,0.1,78.3,55.6,22.7,Cash
+ORD00682,2025-06-01,CUST0264,64.0,Corporate,Central,Online,Home & Kitchen,Cookware Set,1,64.48,0.0,64.48,43.71,20.77,Debit Card
+ORD00683,2025-02-28,CUST0286,60.0,Consumer,Central,Distributor,Clothing,Jacket,4,120.22,0.2,384.7,244.73,139.98,Credit Card
+ORD00684,2025-04-04,CUST0230,32.0,Consumer,North,Retail Store,Office Supplies,Stapler,7,17.84,0.2,99.9,71.18,28.73,Bank Transfer
+ORD00685,2025-03-29,CUST0046,19.0,Small Business,North,Online,Electronics,Keyboard,9,76.69,0.1,621.19,498.44,122.75,Bank Transfer
+ORD00686,2025-12-11,CUST0270,32.0,Consumer,Central,Retail Store,Electronics,Smartphone,5,672.58,0.15,2858.46,2107.68,750.79,Credit Card
+ORD00687,2025-01-10,CUST0113,64.0,Small Business,North,Distributor,Clothing,Jeans,2,66.4,0.05,126.16,91.92,34.24,Credit Card
+ORD00688,2025-03-17,CUST0130,20.0,Consumer,West,Retail Store,Home & Kitchen,Lamp,3,65.58,0.15,167.23,99.51,67.72,Credit Card
+ORD00689,2025-07-28,CUST0109,35.0,Consumer,West,Online,Office Supplies,Folders,3,3.62,0.1,9.77,7.22,2.55,UPI
+ORD00690,2025-08-31,CUST0140,53.0,Corporate,North,Retail Store,Office Supplies,Stapler,1,24.69,0.1,22.22,15.74,6.48,Bank Transfer
+ORD00691,2025-09-25,CUST0089,28.0,Consumer,Central,Retail Store,Furniture,Cabinet,4,176.84,0.0,707.36,567.2,140.16,Credit Card
+ORD00692,2025-10-08,CUST0009,22.0,Consumer,East,Distributor,Office Supplies,Stapler,1,20.7,0.0,20.7,14.0,6.7,Credit Card
+ORD00693,2025-07-05,CUST0111,43.0,Small Business,North,Retail Store,Furniture,Office Chair,1,282.05,0.02,276.41,199.33,77.08,Bank Transfer
+ORD00694,2025-08-03,CUST0063,21.0,Small Business,North,Retail Store,Office Supplies,Printer Paper,10,11.06,0.05,105.07,80.64,24.43,Cash
+ORD00695,2025-07-26,CUST0015,36.0,Corporate,Central,Distributor,Electronics,Laptop,7,1071.09,0.1,6747.87,4838.34,1909.52,Cash
+ORD00696,2025-05-08,CUST0254,34.0,Consumer,West,Retail Store,Furniture,Office Chair,9,497.84,0.1,4032.5,2862.96,1169.55,Bank Transfer
+ORD00697,2025-03-11,CUST0276,31.0,Consumer,West,Distributor,Home & Kitchen,Coffee Maker,7,213.56,0.0,1494.92,1069.79,425.13,Bank Transfer
+ORD00698,2025-06-07,CUST0101,20.0,Small Business,Central,Distributor,Furniture,Office Chair,7,197.9,0.1,1246.77,750.11,496.66,Debit Card
+ORD00699,2025-04-02,CUST0218,57.0,Consumer,Central,Retail Store,Clothing,Shirt,7,49.52,0.02,339.71,267.5,72.2,Bank Transfer
+ORD00700,2025-11-23,CUST0265,25.0,Corporate,South,Distributor,Electronics,Laptop,2,978.7,0.05,1859.53,1457.97,401.56,Debit Card
+ORD00701,2025-10-04,CUST0096,49.0,Corporate,West,Distributor,Electronics,Headphones,3,239.05,0.0,717.15,515.66,201.49,Credit Card
+ORD00702,2025-08-13,CUST0107,38.0,Small Business,West,Distributor,Home & Kitchen,Storage Box,4,53.25,0.05,202.35,156.24,46.11,Debit Card
+ORD00703,2025-01-26,CUST0198,26.0,Consumer,South,Online,Clothing,T-Shirt,2,41.14,0.2,65.82,51.48,14.34,UPI
+ORD00704,2025-05-29,CUST0082,36.0,Corporate,East,Online,Clothing,Jeans,3,51.76,0.05,147.52,120.63,26.88,Debit Card
+ORD00705,2025-02-13,CUST0111,46.0,Consumer,Central,Retail Store,Clothing,Shirt,1,62.61,0.1,56.35,38.26,18.08,Bank Transfer
+ORD00706,2025-07-19,CUST0240,42.0,Small Business,East,Retail Store,Furniture,Office Chair,6,157.97,0.02,928.86,700.86,228.0,Debit Card
+ORD00707,2025-04-24,CUST0169,43.0,Small Business,East,Retail Store,Office Supplies,Stapler,3,7.62,0.2,18.29,10.61,7.67,Debit Card
+ORD00708,2025-10-14,CUST0109,56.0,Corporate,West,Online,Office Supplies,Folders,7,7.3,0.05,48.54,38.13,10.41,Debit Card
+ORD00709,2025-09-30,CUST0090,44.0,Small Business,West,Distributor,Electronics,Keyboard,5,33.46,0.0,167.3,103.07,64.23,Credit Card
+ORD00710,2025-02-15,CUST0010,33.0,Small Business,South,Online,Clothing,Sneakers,4,160.31,0.0,641.24,485.07,156.17,Credit Card
+ORD00711,2025-09-27,CUST0199,32.0,Consumer,South,Retail Store,Electronics,Monitor,9,302.35,0.05,2585.09,2053.87,531.22,Debit Card
+ORD00712,2025-08-10,CUST0157,32.0,Small Business,East,Online,Clothing,Jeans,5,92.59,0.2,370.36,284.94,85.42,Debit Card
+ORD00713,2025-03-15,CUST0021,34.0,Corporate,East,Distributor,Electronics,Laptop,6,1333.21,0.05,7599.3,6196.58,1402.71,Bank Transfer
+ORD00714,2025-04-28,CUST0128,48.0,Corporate,Central,Distributor,Home & Kitchen,Blender,6,75.88,0.0,455.28,256.37,198.91,Cash
+ORD00715,2025-02-17,CUST0239,34.0,Corporate,South,Online,Furniture,Meeting Table,2,413.54,0.02,810.54,611.77,198.77,Cash
+ORD00716,2025-10-24,CUST0268,25.0,Consumer,North,Distributor,Electronics,Laptop,1,553.58,0.15,470.54,329.29,141.26,Credit Card
+ORD00717,2025-08-22,CUST0002,36.0,Consumer,East,Distributor,Home & Kitchen,Blender,1,49.0,0.02,48.02,31.13,16.89,Bank Transfer
+ORD00718,2025-09-30,CUST0178,20.0,Corporate,North,Online,Electronics,Laptop,4,930.32,0.15,3163.09,2149.65,1013.44,UPI
+ORD00719,2025-08-18,CUST0201,33.0,Corporate,Central,Online,Home & Kitchen,Coffee Maker,7,181.65,0.1,1144.4,728.52,415.88,Debit Card
+ORD00720,2025-08-02,CUST0160,48.0,Consumer,South,Retail Store,Clothing,T-Shirt,3,42.35,0.05,120.7,85.16,35.54,UPI
+ORD00721,2025-02-15,CUST0159,33.0,Corporate,Central,Distributor,Electronics,Monitor,5,573.98,0.15,2439.42,1470.15,969.27,Bank Transfer
+ORD00722,2025-11-27,CUST0283,55.0,Consumer,East,Distributor,Office Supplies,Stapler,6,12.93,0.0,77.58,58.95,18.63,Cash
+ORD00723,2025-08-16,CUST0058,34.0,Corporate,East,Retail Store,Home & Kitchen,Blender,5,41.89,0.02,205.26,123.82,81.44,Cash
+ORD00724,2025-06-17,CUST0002,26.0,Consumer,Central,Distributor,Clothing,T-Shirt,5,44.46,0.02,217.85,130.94,86.91,Cash
+ORD00725,2025-11-09,CUST0275,41.0,Small Business,North,Retail Store,Furniture,Cabinet,10,249.03,0.15,2116.76,1394.42,722.34,UPI
+ORD00726,2025-12-04,CUST0289,19.0,Small Business,Central,Retail Store,Electronics,Monitor,8,343.94,0.2,2201.22,1404.07,797.14,Debit Card
+ORD00727,2025-06-25,CUST0134,60.0,Consumer,West,Online,Office Supplies,Notebook,7,7.18,0.15,42.72,33.82,8.9,UPI
+ORD00728,2025-01-23,CUST0183,53.0,Small Business,Central,Distributor,Office Supplies,Notebook,1,6.62,0.1,5.96,4.84,1.12,UPI
+ORD00729,2025-09-14,CUST0067,38.0,Small Business,Central,Retail Store,Electronics,Laptop,4,589.52,0.15,2004.37,1569.96,434.41,Bank Transfer
+ORD00730,2025-03-09,CUST0184,21.0,Consumer,South,Distributor,Home & Kitchen,Blender,10,52.03,0.15,442.26,249.82,192.43,Credit Card
+ORD00731,2025-02-28,CUST0089,20.0,Consumer,West,Online,Furniture,Office Chair,5,284.04,0.02,1391.8,1088.97,302.83,UPI
+ORD00732,2025-08-29,CUST0151,50.0,Small Business,South,Distributor,Electronics,Keyboard,10,36.56,0.02,358.29,250.98,107.31,UPI
+ORD00733,2025-02-10,CUST0247,55.0,Small Business,South,Online,Clothing,Sneakers,5,156.7,0.02,767.83,441.79,326.04,UPI
+ORD00734,2025-06-23,CUST0044,31.0,Corporate,North,Online,Clothing,Jacket,6,110.71,0.05,631.05,353.91,277.13,Credit Card
+ORD00735,2025-12-24,CUST0031,46.0,Consumer,North,Retail Store,Electronics,Headphones,7,264.49,0.05,1758.86,1113.86,645.0,Cash
+ORD00736,2025-02-10,CUST0225,51.0,Small Business,Central,Distributor,Electronics,Laptop,10,997.17,0.02,9772.27,6684.3,3087.97,Credit Card
+ORD00737,2025-03-02,CUST0096,41.0,Small Business,West,Online,Furniture,Office Chair,8,425.26,0.05,3231.98,1926.16,1305.82,Cash
+ORD00738,2025-05-12,CUST0122,50.0,Consumer,South,Online,Home & Kitchen,Blender,8,159.04,0.1,1145.09,874.78,270.3,Credit Card
+ORD00739,2025-06-10,CUST0287,62.0,Consumer,North,Distributor,Furniture,Office Chair,6,266.0,0.02,1564.08,1066.46,497.62,Debit Card
+ORD00740,2025-05-11,CUST0242,43.0,Small Business,West,Retail Store,Clothing,Jeans,10,51.53,0.0,515.3,361.38,153.92,Credit Card
+ORD00741,2025-05-21,CUST0203,38.0,Small Business,South,Online,Home & Kitchen,Lamp,2,114.04,0.0,228.08,139.27,88.81,UPI
+ORD00742,2025-01-09,CUST0233,50.0,Consumer,North,Distributor,Electronics,Headphones,4,243.04,0.02,952.72,676.0,276.72,Debit Card
+ORD00743,2025-07-15,CUST0228,40.0,Small Business,West,Retail Store,Furniture,Meeting Table,9,342.02,0.2,2462.54,1626.29,836.25,UPI
+ORD00744,2025-06-22,CUST0289,43.0,Corporate,West,Online,Electronics,Headphones,1,151.39,0.05,143.82,83.5,60.32,UPI
+ORD00745,2025-06-15,CUST0080,51.0,Corporate,West,Retail Store,Home & Kitchen,Cookware Set,8,118.4,0.0,947.2,701.7,245.5,UPI
+ORD00746,2025-10-02,CUST0008,26.0,Corporate,Central,Online,Clothing,Jacket,4,189.88,0.0,759.52,562.45,197.07,Credit Card
+ORD00747,2025-01-06,CUST0136,22.0,Small Business,North,Retail Store,Furniture,Meeting Table,1,769.68,0.1,692.71,567.57,125.14,UPI
+ORD00748,2025-12-04,CUST0231,48.0,Consumer,South,Distributor,Office Supplies,Printer Paper,5,29.94,0.05,142.22,90.51,51.7,Credit Card
+ORD00749,2025-05-30,CUST0269,33.0,Consumer,East,Online,Electronics,Monitor,9,283.12,0.2,2038.46,1630.97,407.5,Bank Transfer
+ORD00750,2025-08-02,CUST0100,58.0,Consumer,South,Retail Store,Home & Kitchen,Cookware Set,3,81.45,0.0,244.35,141.83,102.52,Debit Card
+ORD00751,2025-05-22,CUST0054,56.0,Small Business,East,Online,Home & Kitchen,Blender,3,113.82,0.15,290.24,169.72,120.52,Debit Card
+ORD00752,2025-07-02,CUST0049,39.0,Consumer,Central,Distributor,Furniture,Office Chair,9,489.74,0.02,4319.51,2515.55,1803.96,Credit Card
+ORD00753,2025-09-02,CUST0268,60.0,Corporate,East,Distributor,Electronics,Keyboard,8,96.94,0.02,760.01,583.8,176.21,Cash
+ORD00754,2025-09-11,CUST0208,34.0,Consumer,Central,Retail Store,Clothing,Sneakers,9,133.71,0.05,1143.22,714.4,428.82,Credit Card
+ORD00755,2025-03-18,CUST0154,63.0,Small Business,Central,Retail Store,Home & Kitchen,Coffee Maker,5,258.95,0.15,1100.54,759.11,341.43,UPI
+ORD00756,2025-03-08,CUST0296,32.0,Small Business,West,Online,Furniture,Office Chair,1,485.88,0.05,461.59,316.09,145.49,UPI
+ORD00757,2025-09-16,CUST0090,32.0,Small Business,West,Online,Electronics,Headphones,9,49.54,0.05,423.57,285.79,137.78,Credit Card
+ORD00758,2025-03-19,CUST0175,31.0,Small Business,East,Distributor,Clothing,T-Shirt,1,27.48,0.15,23.36,13.04,10.32,Bank Transfer
+ORD00759,2025-03-18,CUST0218,27.0,Corporate,West,Distributor,Clothing,Jacket,9,52.38,0.15,400.71,244.54,156.16,Cash
+ORD00760,2025-05-04,CUST0048,57.0,Consumer,East,Retail Store,Furniture,Meeting Table,3,875.8,0.02,2574.85,1513.3,1061.55,Cash
+ORD00761,2025-11-20,CUST0090,43.0,Consumer,East,Distributor,Office Supplies,Notebook,8,14.2,0.2,90.88,65.54,25.34,Debit Card
+ORD00762,2025-02-25,CUST0189,49.0,Small Business,South,Online,Office Supplies,Pens,8,13.97,0.1,100.58,67.4,33.18,Debit Card
+ORD00763,2025-05-17,CUST0018,45.0,Consumer,West,Retail Store,Furniture,Desk,9,580.54,0.1,4702.37,3536.47,1165.9,Credit Card
+ORD00764,2025-04-29,CUST0055,24.0,Consumer,East,Retail Store,Furniture,Cabinet,8,107.27,0.15,729.44,456.84,272.6,Credit Card
+ORD00765,2025-01-29,CUST0101,22.0,Consumer,North,Distributor,Office Supplies,Notebook,7,10.78,0.2,60.37,33.62,26.75,Debit Card
+ORD00766,2025-11-24,CUST0174,61.0,Consumer,West,Distributor,Office Supplies,Folders,2,11.81,0.2,18.9,15.21,3.68,Bank Transfer
+ORD00767,2025-02-02,CUST0070,20.0,Corporate,West,Online,Office Supplies,Folders,1,3.41,0.05,3.24,1.78,1.46,UPI
+ORD00768,2025-08-22,CUST0286,29.0,Small Business,Central,Online,Electronics,Keyboard,1,44.26,0.15,37.62,30.75,6.87,Cash
+ORD00769,2025-08-19,CUST0059,35.0,Small Business,North,Online,Furniture,Cabinet,10,522.2,0.0,5222.0,3196.27,2025.73,Credit Card
+ORD00770,2025-08-14,CUST0300,52.0,Corporate,South,Distributor,Clothing,Jeans,2,114.65,0.0,229.3,137.52,91.78,Bank Transfer
+ORD00771,2025-08-11,CUST0229,55.0,Corporate,West,Distributor,Electronics,Keyboard,4,32.36,0.02,126.85,92.44,34.41,Cash
+ORD00772,2025-06-12,CUST0146,64.0,Corporate,East,Distributor,Electronics,Laptop,10,1068.32,0.15,9080.72,7118.7,1962.02,Cash
+ORD00773,2025-09-28,CUST0183,60.0,Small Business,West,Retail Store,Home & Kitchen,Cookware Set,10,73.67,0.0,736.7,518.76,217.94,Cash
+ORD00774,2025-08-11,CUST0202,61.0,Consumer,South,Retail Store,Home & Kitchen,Blender,7,163.47,0.02,1121.4,730.21,391.2,Credit Card
+ORD00775,2025-09-21,CUST0110,58.0,Small Business,East,Online,Furniture,Desk,9,789.89,0.02,6966.83,4839.1,2127.73,UPI
+ORD00776,2025-09-01,CUST0207,43.0,Small Business,South,Distributor,Home & Kitchen,Coffee Maker,6,158.93,0.1,858.22,496.27,361.95,Credit Card
+ORD00777,2025-09-04,CUST0021,52.0,Consumer,East,Distributor,Office Supplies,Printer Paper,1,12.92,0.0,12.92,9.57,3.35,Bank Transfer
+ORD00778,2025-02-24,CUST0215,61.0,Small Business,Central,Distributor,Clothing,Jacket,3,136.55,0.05,389.17,246.57,142.6,Credit Card
+ORD00779,2025-05-15,CUST0235,49.0,Consumer,North,Online,Clothing,Jacket,3,150.38,0.0,451.14,302.55,148.59,Credit Card
+ORD00780,2025-12-17,CUST0155,34.0,Small Business,West,Distributor,Home & Kitchen,Cookware Set,7,71.62,0.1,451.21,352.12,99.08,Bank Transfer
+ORD00781,2025-04-19,CUST0205,23.0,Small Business,West,Distributor,Home & Kitchen,Blender,4,53.29,0.15,181.19,105.19,76.0,Credit Card
+ORD00782,2025-07-01,CUST0157,34.0,Consumer,North,Online,Home & Kitchen,Storage Box,8,35.15,0.02,275.58,198.07,77.51,Credit Card
+ORD00783,2025-05-11,CUST0221,45.0,Small Business,South,Retail Store,Furniture,Cabinet,10,185.7,0.2,1485.6,1123.25,362.35,UPI
+ORD00784,2025-06-07,CUST0115,36.0,Corporate,Central,Online,Clothing,Shirt,5,92.34,0.15,392.45,319.97,72.48,Debit Card
+ORD00785,2025-02-18,CUST0127,58.0,Consumer,North,Online,Home & Kitchen,Lamp,7,137.76,0.15,819.67,607.77,211.9,Debit Card
+ORD00786,2025-11-16,CUST0285,46.0,Consumer,South,Online,Home & Kitchen,Storage Box,8,62.76,0.1,451.87,345.18,106.69,UPI
+ORD00787,2025-07-13,CUST0212,33.0,Small Business,South,Distributor,Electronics,Headphones,2,103.98,0.02,203.8,162.08,41.72,UPI
+ORD00788,2025-09-06,CUST0260,19.0,Consumer,West,Retail Store,Electronics,Smartphone,1,887.28,0.02,869.53,675.32,194.22,UPI
+ORD00789,2025-01-31,CUST0148,59.0,Consumer,South,Distributor,Electronics,Headphones,6,137.68,0.02,809.56,629.26,180.3,Debit Card
+ORD00790,2025-06-11,CUST0249,25.0,Consumer,Central,Retail Store,Furniture,Meeting Table,3,708.98,0.2,1701.55,1109.61,591.94,UPI
+ORD00791,2025-12-10,CUST0114,29.0,Small Business,South,Online,Home & Kitchen,Blender,3,151.21,0.02,444.56,276.71,167.85,Credit Card
+ORD00792,2025-07-12,CUST0012,36.0,Small Business,West,Online,Furniture,Bookshelf,5,224.32,0.05,1065.52,862.3,203.22,Credit Card
+ORD00793,2025-05-13,CUST0021,45.0,Corporate,North,Retail Store,Home & Kitchen,Cookware Set,6,129.53,0.1,699.46,459.63,239.83,Bank Transfer
+ORD00794,2025-01-16,CUST0282,40.0,Corporate,North,Distributor,Home & Kitchen,Blender,7,41.38,0.0,289.66,191.76,97.9,Debit Card
+ORD00795,2025-07-05,CUST0017,27.0,Small Business,South,Online,Furniture,Meeting Table,9,598.09,0.2,4306.25,3474.67,831.58,Debit Card
+ORD00796,2025-02-17,CUST0208,48.0,Consumer,East,Retail Store,Clothing,T-Shirt,9,48.25,0.1,390.82,305.99,84.84,Debit Card
+ORD00797,2025-09-16,CUST0072,18.0,Corporate,West,Distributor,Clothing,Sneakers,8,176.65,0.15,1201.22,922.52,278.7,Bank Transfer
+ORD00798,2025-11-09,CUST0016,43.0,Corporate,South,Retail Store,Office Supplies,Stapler,10,23.21,0.05,220.5,151.02,69.48,Cash
+ORD00799,2025-01-19,CUST0112,26.0,Small Business,South,Distributor,Office Supplies,Printer Paper,6,21.58,0.1,116.53,69.5,47.04,Bank Transfer
+ORD00800,2025-11-20,CUST0061,49.0,Small Business,North,Distributor,Furniture,Meeting Table,7,911.24,0.0,6378.68,5116.19,1262.49,Cash
+ORD00801,2025-01-05,CUST0150,22.0,Corporate,Central,Online,Clothing,Jacket,2,128.03,0.2,204.85,165.97,38.87,UPI
+ORD00802,2025-11-03,CUST0187,22.0,Corporate,South,Retail Store,Office Supplies,Printer Paper,10,26.88,0.15,228.48,144.4,84.08,Debit Card
+ORD00803,2025-02-17,CUST0272,27.0,Small Business,East,Retail Store,Electronics,Monitor,4,390.4,0.05,1483.52,977.08,506.44,Debit Card
+ORD00804,2025-10-24,CUST0068,47.0,Small Business,North,Retail Store,Office Supplies,Folders,9,11.16,0.0,100.44,67.07,33.37,UPI
+ORD00805,2025-05-14,CUST0192,60.0,Consumer,North,Online,Clothing,Jeans,3,47.9,0.1,129.33,101.45,27.88,Cash
+ORD00806,2025-11-08,CUST0010,24.0,Consumer,West,Online,Electronics,Monitor,5,181.05,0.02,887.14,568.13,319.02,Credit Card
+ORD00807,2025-08-06,CUST0080,33.0,Corporate,North,Online,Clothing,T-Shirt,2,46.28,0.2,74.05,54.5,19.55,Cash
+ORD00808,2025-01-13,CUST0034,43.0,Consumer,South,Online,Office Supplies,Pens,2,9.33,0.15,15.86,8.97,6.89,Credit Card
+ORD00809,2025-09-09,CUST0268,37.0,Consumer,West,Distributor,Furniture,Cabinet,5,590.49,0.15,2509.58,1592.6,916.98,Debit Card
+ORD00810,2025-09-20,CUST0234,32.0,Small Business,Central,Retail Store,Home & Kitchen,Coffee Maker,6,282.18,0.02,1659.22,1159.55,499.66,Credit Card
+ORD00811,2025-07-26,CUST0086,46.0,Small Business,Central,Distributor,Office Supplies,Pens,6,15.71,0.1,84.83,67.48,17.35,Cash
+ORD00812,2025-11-14,CUST0291,54.0,Small Business,Central,Online,Furniture,Bookshelf,2,307.26,0.02,602.23,337.83,264.4,Cash
+ORD00813,2025-09-01,CUST0128,43.0,Consumer,West,Distributor,Clothing,Shirt,2,85.23,0.02,167.05,119.56,47.49,Credit Card
+ORD00814,2025-06-16,CUST0203,58.0,Consumer,West,Retail Store,Home & Kitchen,Lamp,3,118.59,0.02,348.65,268.53,80.13,Bank Transfer
+ORD00815,2025-07-30,CUST0265,62.0,Consumer,North,Retail Store,Home & Kitchen,Coffee Maker,4,271.43,0.02,1064.01,681.6,382.4,Credit Card
+ORD00816,2025-01-13,CUST0088,38.0,Small Business,West,Retail Store,Office Supplies,Printer Paper,10,24.92,0.02,244.22,186.05,58.17,Debit Card
+ORD00817,2025-06-17,CUST0190,58.0,Corporate,South,Distributor,Home & Kitchen,Storage Box,10,63.99,0.05,607.9,413.04,194.87,Cash
+ORD00818,2025-08-31,CUST0141,20.0,Small Business,East,Distributor,Home & Kitchen,Cookware Set,6,167.24,0.2,802.75,500.18,302.57,Debit Card
+ORD00819,2025-11-07,CUST0280,61.0,Small Business,North,Distributor,Furniture,Desk,7,764.76,0.05,5085.65,3050.66,2034.99,UPI
+ORD00820,2025-12-02,CUST0170,53.0,Consumer,West,Retail Store,Electronics,Headphones,3,47.55,0.15,121.25,70.84,50.42,Cash
+ORD00821,2025-01-17,CUST0247,43.0,Consumer,South,Online,Furniture,Meeting Table,8,716.21,0.05,5443.2,3258.0,2185.2,UPI
+ORD00822,2025-03-13,CUST0081,31.0,Consumer,South,Online,Furniture,Meeting Table,6,1091.83,0.1,5895.88,4022.29,1873.59,UPI
+ORD00823,2025-02-28,CUST0166,41.0,Consumer,North,Retail Store,Clothing,Jacket,5,92.29,0.15,392.23,282.04,110.19,Credit Card
+ORD00824,2025-03-06,CUST0242,47.0,Small Business,Central,Distributor,Electronics,Keyboard,7,132.19,0.2,740.26,514.7,225.56,Credit Card
+ORD00825,2025-03-13,CUST0177,30.0,Corporate,East,Distributor,Furniture,Desk,8,330.28,0.05,2510.13,1425.76,1084.36,Cash
+ORD00826,2025-06-28,CUST0265,41.0,Corporate,Central,Distributor,Clothing,Shirt,9,77.73,0.1,629.61,467.95,161.67,UPI
+ORD00827,2025-06-19,CUST0053,43.0,Consumer,Central,Retail Store,Office Supplies,Stapler,8,16.79,0.15,114.17,62.91,51.26,Cash
+ORD00828,2025-08-31,CUST0252,52.0,Small Business,West,Retail Store,Furniture,Cabinet,1,289.98,0.1,260.98,146.92,114.06,UPI
+ORD00829,2025-05-22,CUST0051,64.0,Corporate,West,Retail Store,Office Supplies,Notebook,5,4.8,0.1,21.6,13.68,7.92,UPI
+ORD00830,2025-09-12,CUST0228,25.0,Consumer,East,Retail Store,Office Supplies,Folders,1,3.03,0.15,2.58,1.55,1.03,Credit Card
+ORD00831,2025-04-15,CUST0142,59.0,Consumer,West,Retail Store,Office Supplies,Stapler,5,13.28,0.15,56.44,35.02,21.42,Cash
+ORD00832,2025-08-31,CUST0097,32.0,Consumer,Central,Retail Store,Electronics,Smartphone,8,873.52,0.0,6988.16,4564.21,2423.95,Credit Card
+ORD00833,2025-09-27,CUST0175,47.0,Consumer,East,Distributor,Home & Kitchen,Storage Box,1,73.1,0.2,58.48,37.04,21.44,Cash
+ORD00834,2025-07-11,CUST0029,47.0,Consumer,East,Retail Store,Office Supplies,Notebook,4,3.27,0.15,11.12,8.07,3.05,Debit Card
+ORD00835,2025-01-13,CUST0076,24.0,Consumer,East,Online,Home & Kitchen,Storage Box,8,17.73,0.1,127.66,78.19,49.46,Cash
+ORD00836,2025-06-04,CUST0259,21.0,Corporate,North,Online,Clothing,Shirt,1,84.94,0.15,72.2,43.03,29.17,Cash
+ORD00837,2025-09-03,CUST0125,23.0,Small Business,Central,Online,Clothing,Jacket,6,96.4,0.02,566.83,403.0,163.83,Cash
+ORD00838,2025-02-08,CUST0179,38.0,Consumer,Central,Distributor,Electronics,Headphones,8,268.7,0.02,2106.61,1418.75,687.86,Debit Card
+ORD00839,2025-01-08,CUST0025,21.0,Small Business,North,Distributor,Clothing,Sneakers,7,132.59,0.02,909.57,652.99,256.57,Cash
+ORD00840,2025-07-04,CUST0084,45.0,Small Business,South,Retail Store,Home & Kitchen,Lamp,9,92.42,0.15,707.01,558.29,148.73,Cash
+ORD00841,2025-10-13,CUST0221,53.0,Small Business,East,Distributor,Furniture,Cabinet,4,430.85,0.15,1464.89,953.48,511.41,Bank Transfer
+ORD00842,2025-09-28,CUST0105,59.0,Small Business,South,Distributor,Clothing,Sneakers,1,52.75,0.15,44.84,27.77,17.07,Bank Transfer
+ORD00843,2025-04-30,CUST0133,60.0,Small Business,West,Retail Store,Home & Kitchen,Cookware Set,5,229.48,0.0,1147.4,782.2,365.2,Cash
+ORD00844,2025-09-12,CUST0245,20.0,Corporate,South,Online,Office Supplies,Notebook,9,14.43,0.2,103.9,64.66,39.23,Debit Card
+ORD00845,2025-01-26,CUST0063,20.0,Small Business,South,Distributor,Furniture,Cabinet,4,272.25,0.1,980.1,661.72,318.38,Credit Card
+ORD00846,2025-09-16,CUST0165,62.0,Small Business,West,Online,Furniture,Office Chair,3,419.02,0.05,1194.21,831.85,362.36,UPI
+ORD00847,2025-10-09,CUST0105,43.0,Small Business,Central,Online,Electronics,Laptop,1,866.81,0.05,823.47,543.63,279.84,Debit Card
+ORD00848,2025-05-09,CUST0271,36.0,Corporate,South,Retail Store,Electronics,Smartphone,7,1077.49,0.15,6411.07,3695.22,2715.85,Bank Transfer
+ORD00849,2025-05-26,CUST0231,49.0,Corporate,West,Online,Home & Kitchen,Storage Box,9,79.72,0.05,681.61,533.58,148.02,Cash
+ORD00850,2025-05-08,CUST0143,52.0,Corporate,Central,Distributor,Office Supplies,Printer Paper,1,10.54,0.2,8.43,6.79,1.64,UPI
+ORD00851,2025-01-13,CUST0250,51.0,Consumer,North,Distributor,Office Supplies,Printer Paper,5,25.68,0.1,115.56,81.92,33.64,Cash
+ORD00852,2025-04-18,CUST0144,51.0,Corporate,West,Online,Clothing,Sneakers,3,67.57,0.02,198.66,133.34,65.32,Debit Card
+ORD00853,2025-10-02,CUST0271,25.0,Consumer,East,Distributor,Furniture,Meeting Table,3,736.62,0.2,1767.89,1309.83,458.06,Debit Card
+ORD00854,2025-11-07,CUST0156,24.0,Small Business,South,Distributor,Furniture,Bookshelf,10,383.09,0.1,3447.81,2557.18,890.63,Debit Card
+ORD00855,2025-11-02,CUST0300,21.0,Small Business,West,Distributor,Office Supplies,Folders,1,18.37,0.2,14.7,8.83,5.87,Cash
+ORD00856,2025-03-31,CUST0233,61.0,Small Business,East,Distributor,Furniture,Office Chair,10,205.52,0.2,1644.16,1108.27,535.89,Bank Transfer
+ORD00857,2025-04-01,CUST0117,51.0,Consumer,East,Retail Store,Furniture,Office Chair,5,359.26,0.15,1526.86,1113.56,413.3,Bank Transfer
+ORD00858,2025-02-13,CUST0287,42.0,Consumer,Central,Online,Office Supplies,Printer Paper,7,26.16,0.0,183.12,134.47,48.65,Bank Transfer
+ORD00859,2025-09-01,CUST0276,30.0,Small Business,South,Retail Store,Clothing,T-Shirt,3,57.42,0.0,172.26,106.47,65.79,UPI
+ORD00860,2025-08-01,CUST0067,40.0,Small Business,West,Online,Electronics,Keyboard,8,78.24,0.15,532.03,366.82,165.21,Debit Card
+ORD00861,2025-11-30,CUST0047,27.0,Small Business,West,Retail Store,Electronics,Monitor,5,424.37,0.2,1697.48,1083.74,613.74,UPI
+ORD00862,2025-08-23,CUST0047,54.0,Consumer,Central,Online,Home & Kitchen,Cookware Set,4,100.64,0.02,394.51,259.43,135.08,Cash
+ORD00863,2025-11-05,CUST0052,26.0,Consumer,South,Distributor,Home & Kitchen,Lamp,7,92.31,0.2,516.94,304.29,212.65,Bank Transfer
+ORD00864,2025-04-16,CUST0160,52.0,Small Business,East,Online,Clothing,Jeans,3,44.72,0.15,114.04,92.42,21.62,Debit Card
+ORD00865,2025-04-21,CUST0262,46.0,Consumer,South,Distributor,Furniture,Cabinet,8,261.74,0.02,2052.04,1401.59,650.45,Cash
+ORD00866,2025-01-14,CUST0071,57.0,Consumer,Central,Online,Clothing,Jeans,8,79.69,0.1,573.77,409.35,164.42,Debit Card
+ORD00867,2025-01-07,CUST0198,46.0,Small Business,East,Distributor,Office Supplies,Stapler,4,18.09,0.15,61.51,40.23,21.28,Debit Card
+ORD00868,2025-06-15,CUST0245,62.0,Small Business,South,Online,Electronics,Headphones,8,122.62,0.05,931.91,713.41,218.5,Cash
+ORD00869,2025-05-05,CUST0274,53.0,Corporate,North,Online,Electronics,Laptop,2,1073.5,0.1,1932.3,1549.59,382.71,Debit Card
+ORD00870,2025-01-13,CUST0119,41.0,Consumer,North,Retail Store,Electronics,Headphones,1,46.55,0.2,37.24,21.73,15.51,Bank Transfer
+ORD00871,2025-09-08,CUST0085,57.0,Corporate,South,Retail Store,Home & Kitchen,Lamp,9,99.03,0.2,713.02,531.46,181.55,Bank Transfer
+ORD00872,2025-11-29,CUST0239,22.0,Small Business,West,Retail Store,Office Supplies,Stapler,7,17.98,0.02,123.34,71.59,51.76,UPI
+ORD00873,2025-10-16,CUST0108,32.0,Corporate,North,Retail Store,Furniture,Meeting Table,10,1035.67,0.0,10356.7,5716.52,4640.18,Bank Transfer
+ORD00874,2025-04-05,CUST0021,26.0,Small Business,West,Retail Store,Electronics,Keyboard,4,32.96,0.2,105.47,84.84,20.63,Credit Card
+ORD00875,2025-02-17,CUST0050,47.0,Corporate,East,Online,Clothing,T-Shirt,4,22.12,0.1,79.63,46.97,32.66,Cash
+ORD00876,2025-03-02,CUST0293,30.0,Consumer,West,Online,Furniture,Desk,1,162.69,0.0,162.69,91.16,71.53,UPI
+ORD00877,2025-03-28,CUST0226,60.0,Small Business,North,Online,Electronics,Laptop,1,657.5,0.02,644.35,393.96,250.39,Bank Transfer
+ORD00878,2025-02-03,CUST0022,53.0,Small Business,West,Online,Furniture,Cabinet,8,144.0,0.0,1152.0,902.21,249.79,Bank Transfer
+ORD00879,2025-11-14,CUST0068,41.0,Small Business,Central,Distributor,Home & Kitchen,Lamp,10,121.6,0.1,1094.4,830.47,263.93,Debit Card
+ORD00880,2025-12-09,CUST0089,48.0,Small Business,West,Online,Furniture,Desk,2,515.29,0.02,1009.97,733.98,275.99,UPI
+ORD00881,2025-05-30,CUST0020,21.0,Small Business,East,Distributor,Home & Kitchen,Blender,7,122.87,0.2,688.07,429.53,258.55,Cash
+ORD00882,2025-05-15,CUST0074,60.0,Consumer,West,Online,Electronics,Laptop,6,1193.85,0.15,6088.63,4620.57,1468.06,Credit Card
+ORD00883,2025-04-06,CUST0064,34.0,Consumer,South,Online,Office Supplies,Stapler,3,18.93,0.1,51.11,36.98,14.14,UPI
+ORD00884,2025-04-19,CUST0061,49.0,Consumer,North,Retail Store,Home & Kitchen,Cookware Set,5,145.31,0.15,617.57,427.26,190.31,Cash
+ORD00885,2025-01-20,CUST0145,22.0,Small Business,North,Retail Store,Electronics,Laptop,6,1352.15,0.0,8112.9,6493.78,1619.12,Credit Card
+ORD00886,2025-01-06,CUST0051,63.0,Corporate,North,Distributor,Electronics,Monitor,6,173.52,0.05,989.06,726.62,262.45,UPI
+ORD00887,2025-02-26,CUST0026,24.0,Corporate,South,Distributor,Clothing,Shirt,10,47.92,0.05,455.24,293.18,162.06,Cash
+ORD00888,2025-08-25,CUST0264,34.0,Corporate,South,Retail Store,Furniture,Bookshelf,4,346.65,0.02,1358.87,1108.64,250.23,Cash
+ORD00889,2025-11-06,CUST0138,47.0,Consumer,South,Retail Store,Home & Kitchen,Coffee Maker,9,114.21,0.05,976.5,673.31,303.18,Bank Transfer
+ORD00890,2025-09-02,CUST0192,40.0,Corporate,South,Distributor,Office Supplies,Printer Paper,8,25.99,0.0,207.92,167.36,40.56,UPI
+ORD00891,2025-07-28,CUST0152,54.0,Consumer,East,Retail Store,Clothing,Jeans,9,54.85,0.02,483.78,352.3,131.48,UPI
+ORD00892,2025-05-21,CUST0118,52.0,Corporate,Central,Distributor,Furniture,Cabinet,1,481.64,0.0,481.64,307.73,173.91,Credit Card
+ORD00893,2025-05-26,CUST0057,27.0,Corporate,Central,Online,Home & Kitchen,Cookware Set,5,95.18,0.1,428.31,287.74,140.57,Cash
+ORD00894,2025-12-17,CUST0069,59.0,Small Business,East,Online,Office Supplies,Stapler,6,20.43,0.1,110.32,84.5,25.82,Debit Card
+ORD00895,2025-09-25,CUST0055,44.0,Consumer,East,Distributor,Electronics,Headphones,2,101.71,0.15,172.91,125.16,47.75,Bank Transfer
+ORD00896,2025-06-09,CUST0248,30.0,Corporate,North,Retail Store,Clothing,Jeans,1,65.8,0.15,55.93,39.6,16.33,UPI
+ORD00897,2025-11-04,CUST0242,45.0,Corporate,South,Distributor,Clothing,T-Shirt,5,26.01,0.1,117.05,85.26,31.78,Credit Card
+ORD00898,2025-12-28,CUST0229,38.0,Corporate,Central,Distributor,Home & Kitchen,Lamp,10,100.26,0.02,982.55,675.21,307.34,UPI
+ORD00899,2025-08-24,CUST0125,37.0,Corporate,South,Online,Home & Kitchen,Coffee Maker,1,186.05,0.02,182.33,115.56,66.77,Credit Card
+ORD00900,2025-07-20,CUST0107,36.0,Corporate,South,Distributor,Furniture,Meeting Table,5,586.43,0.02,2873.51,2216.98,656.53,Credit Card
+ORD00901,2025-01-24,CUST0218,60.0,Corporate,West,Online,Electronics,Headphones,7,107.12,0.2,599.87,427.33,172.54,Credit Card
+ORD00902,2025-12-27,CUST0013,51.0,Consumer,South,Retail Store,Office Supplies,Folders,1,3.1,0.0,3.1,2.54,0.56,Credit Card
+ORD00903,2025-08-16,CUST0248,45.0,Corporate,West,Retail Store,Home & Kitchen,Blender,9,173.55,0.1,1405.76,851.36,554.39,Credit Card
+ORD00904,2025-12-17,CUST0067,31.0,Corporate,West,Online,Clothing,Shirt,1,36.48,0.02,35.75,20.4,15.35,UPI
+ORD00905,2025-12-21,CUST0109,55.0,Small Business,East,Distributor,Office Supplies,Pens,5,12.49,0.02,61.2,37.74,23.46,UPI
+ORD00906,2025-11-08,CUST0070,60.0,Corporate,West,Distributor,Clothing,Jeans,1,83.03,0.15,70.58,46.49,24.09,UPI
+ORD00907,2025-01-03,CUST0276,20.0,Small Business,West,Distributor,Clothing,Jacket,10,160.52,0.05,1524.94,902.15,622.79,Debit Card
+ORD00908,2025-12-08,CUST0159,39.0,Small Business,East,Online,Office Supplies,Stapler,2,7.53,0.15,12.8,7.86,4.94,Bank Transfer
+ORD00909,2025-12-13,CUST0115,48.0,Small Business,West,Online,Clothing,Sneakers,5,103.04,0.2,412.16,312.47,99.69,Bank Transfer
+ORD00910,2025-08-03,CUST0128,20.0,Small Business,Central,Distributor,Furniture,Cabinet,9,278.47,0.2,2004.98,1199.46,805.52,Debit Card
+ORD00911,2025-01-14,CUST0056,25.0,Corporate,South,Distributor,Office Supplies,Pens,5,12.2,0.02,59.78,43.59,16.19,Cash
+ORD00912,2025-04-21,CUST0121,33.0,Corporate,West,Retail Store,Electronics,Keyboard,8,57.74,0.0,461.92,356.99,104.93,Cash
+ORD00913,2025-02-25,CUST0255,53.0,Small Business,South,Online,Furniture,Office Chair,4,392.92,0.1,1414.51,1148.07,266.44,Debit Card
+ORD00914,2025-03-10,CUST0159,55.0,Corporate,Central,Online,Furniture,Office Chair,6,326.03,0.0,1956.18,1215.93,740.25,UPI
+ORD00915,2025-07-09,CUST0128,29.0,Corporate,South,Distributor,Home & Kitchen,Lamp,8,64.29,0.15,437.17,281.92,155.25,Credit Card
+ORD00916,2025-06-30,CUST0146,34.0,Small Business,East,Online,Home & Kitchen,Lamp,10,92.15,0.1,829.35,618.58,210.77,UPI
+ORD00917,2025-04-28,CUST0207,24.0,Corporate,North,Retail Store,Office Supplies,Printer Paper,3,29.73,0.05,84.73,67.3,17.43,Debit Card
+ORD00918,2025-08-09,CUST0132,23.0,Consumer,West,Retail Store,Electronics,Monitor,9,388.55,0.15,2972.41,2004.78,967.63,Debit Card
+ORD00919,2025-08-06,CUST0144,53.0,Small Business,East,Online,Home & Kitchen,Lamp,8,129.65,0.05,985.34,715.18,270.16,Credit Card
+ORD00920,2025-12-12,CUST0264,26.0,Consumer,West,Distributor,Office Supplies,Pens,7,8.26,0.0,57.82,34.34,23.48,Bank Transfer
+ORD00921,2025-01-25,CUST0106,64.0,Small Business,Central,Retail Store,Furniture,Office Chair,7,175.45,0.05,1166.74,718.98,447.76,Debit Card
+ORD00922,2025-02-12,CUST0049,44.0,Corporate,East,Online,Clothing,Jeans,8,34.51,0.02,270.56,170.57,99.98,Debit Card
+ORD00923,2025-07-18,CUST0213,24.0,Small Business,South,Online,Office Supplies,Pens,7,19.76,0.0,138.32,93.34,44.98,UPI
+ORD00924,2025-09-05,CUST0259,44.0,Corporate,North,Distributor,Home & Kitchen,Storage Box,9,60.38,0.05,516.25,287.08,229.17,Credit Card
+ORD00925,2025-12-16,CUST0020,53.0,Consumer,North,Distributor,Office Supplies,Pens,1,12.08,0.02,11.84,8.14,3.7,Cash
+ORD00926,2025-01-16,CUST0269,22.0,Small Business,Central,Distributor,Electronics,Laptop,3,610.39,0.02,1794.55,1168.82,625.73,Debit Card
+ORD00927,2025-11-10,CUST0185,22.0,Corporate,West,Distributor,Electronics,Headphones,5,299.62,0.1,1348.29,870.52,477.77,Debit Card
+ORD00928,2025-12-06,CUST0279,63.0,Corporate,West,Distributor,Office Supplies,Notebook,6,6.16,0.15,31.42,19.29,12.12,Debit Card
+ORD00929,2025-08-30,CUST0031,53.0,Corporate,Central,Online,Clothing,Sneakers,9,46.24,0.02,407.84,252.53,155.31,UPI
+ORD00930,2025-02-05,CUST0004,21.0,Corporate,North,Online,Home & Kitchen,Lamp,2,106.21,0.02,208.17,154.71,53.46,Credit Card
+ORD00931,2025-03-13,CUST0051,55.0,Small Business,North,Online,Home & Kitchen,Storage Box,6,68.47,0.15,349.2,284.35,64.85,UPI
+ORD00932,2025-06-01,CUST0238,26.0,Corporate,West,Distributor,Electronics,Laptop,10,873.63,0.05,8299.48,4803.07,3496.41,Cash
+ORD00933,2025-10-28,CUST0107,22.0,Small Business,West,Distributor,Clothing,Sneakers,4,90.87,0.15,308.96,187.43,121.53,Credit Card
+ORD00934,2025-01-12,CUST0300,63.0,Consumer,North,Online,Home & Kitchen,Storage Box,6,16.65,0.2,79.92,50.18,29.74,Debit Card
+ORD00935,2025-07-28,CUST0116,37.0,Small Business,Central,Online,Office Supplies,Folders,2,5.41,0.0,10.82,8.06,2.76,Debit Card
+ORD00936,2025-02-22,CUST0057,29.0,Consumer,South,Retail Store,Furniture,Meeting Table,7,849.35,0.05,5648.18,4614.54,1033.64,Bank Transfer
+ORD00937,2025-10-16,CUST0221,26.0,Small Business,East,Distributor,Furniture,Desk,3,756.72,0.05,2156.65,1227.69,928.96,Credit Card
+ORD00938,2025-06-21,CUST0019,22.0,Small Business,South,Retail Store,Office Supplies,Stapler,7,11.92,0.1,75.1,58.07,17.03,Debit Card
+ORD00939,2025-03-07,CUST0079,50.0,Consumer,Central,Retail Store,Electronics,Monitor,2,302.08,0.2,483.33,332.01,151.32,Debit Card
+ORD00940,2025-04-01,CUST0193,50.0,Corporate,West,Retail Store,Clothing,T-Shirt,5,46.08,0.2,184.32,143.34,40.98,Debit Card
+ORD00941,2025-03-06,CUST0286,39.0,Corporate,West,Retail Store,Office Supplies,Printer Paper,7,26.79,0.02,183.78,108.9,74.88,Debit Card
+ORD00942,2025-11-19,CUST0060,38.0,Small Business,North,Retail Store,Furniture,Bookshelf,5,150.76,0.2,603.04,400.24,202.8,Cash
+ORD00943,2025-03-15,CUST0286,35.0,Corporate,South,Retail Store,Office Supplies,Stapler,8,12.11,0.15,82.35,51.14,31.21,Credit Card
+ORD00944,2025-05-21,CUST0061,21.0,Consumer,West,Retail Store,Furniture,Meeting Table,8,608.8,0.05,4626.88,2599.63,2027.25,Cash
+ORD00945,2025-02-21,CUST0284,25.0,Small Business,South,Online,Electronics,Headphones,4,253.51,0.05,963.34,593.89,369.45,Credit Card
+ORD00946,2025-03-03,CUST0115,41.0,Consumer,South,Online,Office Supplies,Pens,1,19.69,0.15,16.74,10.46,6.27,Bank Transfer
+ORD00947,2025-06-25,CUST0066,21.0,Small Business,North,Distributor,Electronics,Headphones,3,134.51,0.05,383.35,298.15,85.2,Cash
+ORD00948,2025-09-16,CUST0017,36.0,Corporate,Central,Distributor,Office Supplies,Folders,3,7.87,0.15,20.07,13.66,6.41,Debit Card
+ORD00949,2025-05-29,CUST0076,46.0,Consumer,East,Online,Furniture,Desk,6,235.91,0.02,1387.15,962.17,424.98,Cash
+ORD00950,2025-09-09,CUST0233,19.0,Small Business,South,Online,Furniture,Meeting Table,10,1129.61,0.15,9601.68,5942.01,3659.67,Cash
+ORD00951,2025-04-03,CUST0282,23.0,Small Business,East,Distributor,Electronics,Smartphone,1,247.52,0.1,222.77,145.86,76.91,Cash
+ORD00952,2025-02-19,CUST0013,21.0,Consumer,Central,Retail Store,Home & Kitchen,Cookware Set,7,165.99,0.1,1045.74,806.64,239.09,Credit Card
+ORD00953,2025-03-31,CUST0213,31.0,Small Business,North,Online,Office Supplies,Printer Paper,3,16.56,0.0,49.68,31.6,18.08,UPI
+ORD00954,2025-11-03,CUST0052,57.0,Consumer,East,Distributor,Furniture,Bookshelf,4,368.08,0.1,1325.09,805.72,519.37,Credit Card
+ORD00955,2025-11-28,CUST0137,27.0,Corporate,North,Retail Store,Office Supplies,Pens,6,8.23,0.2,39.5,23.73,15.77,Cash
+ORD00956,2025-12-07,CUST0237,53.0,Small Business,East,Distributor,Electronics,Smartphone,5,680.71,0.2,2722.84,2080.56,642.28,Credit Card
+ORD00957,2025-07-16,CUST0236,43.0,Consumer,South,Distributor,Home & Kitchen,Coffee Maker,5,228.52,0.2,914.08,687.39,226.69,Bank Transfer
+ORD00958,2025-11-25,CUST0191,25.0,Corporate,East,Distributor,Home & Kitchen,Lamp,7,98.6,0.05,655.69,481.73,173.96,Bank Transfer
+ORD00959,2025-05-10,CUST0257,61.0,Corporate,East,Retail Store,Furniture,Meeting Table,5,1137.92,0.02,5575.81,3472.4,2103.4,UPI
+ORD00960,2025-05-20,CUST0134,19.0,Small Business,North,Distributor,Electronics,Laptop,9,1075.52,0.05,9195.7,7094.79,2100.9,UPI
+ORD00961,2025-04-23,CUST0245,36.0,Corporate,East,Retail Store,Home & Kitchen,Cookware Set,8,103.41,0.02,810.73,663.74,146.99,Debit Card
+ORD00962,2025-11-10,CUST0027,45.0,Consumer,West,Online,Clothing,Jacket,5,65.98,0.1,296.91,170.45,126.46,Debit Card
+ORD00963,2025-11-18,CUST0249,47.0,Consumer,Central,Retail Store,Electronics,Laptop,4,578.82,0.15,1967.99,1544.12,423.87,Bank Transfer
+ORD00964,2025-06-01,CUST0135,31.0,Corporate,West,Online,Home & Kitchen,Lamp,9,140.95,0.2,1014.84,774.54,240.3,Credit Card
+ORD00965,2025-05-22,CUST0153,59.0,Small Business,South,Distributor,Furniture,Meeting Table,9,1187.74,0.1,9620.69,7278.24,2342.45,Cash
+ORD00966,2025-11-26,CUST0018,33.0,Corporate,Central,Online,Office Supplies,Printer Paper,4,14.11,0.15,47.97,36.64,11.33,UPI
+ORD00967,2025-02-25,CUST0238,22.0,Consumer,West,Retail Store,Furniture,Cabinet,1,299.0,0.02,293.02,170.56,122.46,Debit Card
+ORD00968,2025-11-16,CUST0076,63.0,Small Business,East,Retail Store,Home & Kitchen,Blender,9,150.49,0.2,1083.53,803.72,279.8,Bank Transfer
+ORD00969,2025-07-04,CUST0046,26.0,Small Business,South,Online,Clothing,T-Shirt,9,51.68,0.05,441.86,330.82,111.04,Debit Card
+ORD00970,2025-12-23,CUST0037,58.0,Consumer,North,Retail Store,Home & Kitchen,Coffee Maker,7,190.13,0.2,1064.73,784.81,279.91,Bank Transfer
+ORD00971,2025-11-09,CUST0220,49.0,Corporate,East,Online,Home & Kitchen,Storage Box,10,30.17,0.02,295.67,202.24,93.43,Debit Card
+ORD00972,2025-04-14,CUST0031,39.0,Corporate,South,Distributor,Furniture,Bookshelf,2,310.61,0.2,496.98,363.69,133.28,Cash
+ORD00973,2025-10-11,CUST0077,46.0,Consumer,South,Retail Store,Clothing,Sneakers,8,68.05,0.02,533.51,413.12,120.39,Credit Card
+ORD00974,2025-09-02,CUST0144,49.0,Consumer,South,Retail Store,Home & Kitchen,Cookware Set,3,132.86,0.1,358.72,285.46,73.26,UPI
+ORD00975,2025-06-07,CUST0015,51.0,Corporate,North,Online,Clothing,T-Shirt,8,20.74,0.05,157.62,102.32,55.31,Bank Transfer
+ORD00976,2025-09-10,CUST0041,44.0,Corporate,North,Retail Store,Furniture,Meeting Table,8,1082.92,0.0,8663.36,7102.8,1560.56,UPI
+ORD00977,2025-05-31,CUST0080,40.0,Small Business,West,Retail Store,Clothing,Shirt,7,67.58,0.02,463.6,332.57,131.03,Debit Card
+ORD00978,2025-09-26,CUST0111,21.0,Small Business,West,Retail Store,Home & Kitchen,Blender,8,67.85,0.1,488.52,326.74,161.78,Debit Card
+ORD00979,2025-04-02,CUST0211,27.0,Small Business,West,Distributor,Furniture,Bookshelf,4,203.88,0.02,799.21,583.47,215.74,Cash
+ORD00980,2025-03-07,CUST0114,62.0,Consumer,West,Distributor,Home & Kitchen,Coffee Maker,6,192.67,0.02,1132.9,677.41,455.49,Debit Card
+ORD00981,2025-06-14,CUST0019,52.0,Corporate,West,Online,Office Supplies,Printer Paper,2,29.4,0.0,58.8,38.57,20.23,Debit Card
+ORD00982,2025-05-27,CUST0042,63.0,Small Business,East,Distributor,Clothing,Shirt,6,74.88,0.0,449.28,286.54,162.74,Credit Card
+ORD00983,2025-11-02,CUST0014,57.0,Consumer,North,Retail Store,Home & Kitchen,Cookware Set,8,217.0,0.0,1736.0,1037.37,698.63,Bank Transfer
+ORD00984,2025-12-03,CUST0267,28.0,Consumer,East,Online,Office Supplies,Pens,9,18.8,0.2,135.36,108.36,27.0,Bank Transfer
+ORD00985,2025-05-16,CUST0087,51.0,Small Business,West,Distributor,Office Supplies,Folders,10,4.71,0.02,46.16,34.14,12.02,UPI
+ORD00986,2025-08-29,CUST0107,62.0,Corporate,East,Retail Store,Clothing,Jacket,9,80.34,0.15,614.6,395.25,219.36,Credit Card
+ORD00987,2025-07-08,CUST0187,20.0,Consumer,North,Distributor,Home & Kitchen,Blender,8,147.8,0.2,945.92,715.4,230.52,Debit Card
+ORD00988,2025-05-01,CUST0126,22.0,Small Business,Central,Retail Store,Home & Kitchen,Lamp,3,23.31,0.1,62.94,40.41,22.53,Cash
+ORD00989,2025-09-09,CUST0272,25.0,Corporate,Central,Distributor,Furniture,Bookshelf,9,181.35,0.02,1599.51,1075.26,524.24,UPI
+ORD00990,2025-06-14,CUST0231,23.0,Corporate,South,Retail Store,Clothing,Sneakers,3,144.01,0.05,410.43,240.03,170.4,Bank Transfer
+ORD00991,2025-09-15,CUST0208,32.0,Consumer,South,Retail Store,Clothing,Jeans,3,69.79,0.0,209.37,118.72,90.65,Credit Card
+ORD00992,2025-07-10,CUST0210,34.0,Small Business,South,Online,Clothing,Shirt,4,61.51,0.0,246.04,153.18,92.86,Credit Card
+ORD00993,2025-07-09,CUST0067,64.0,Corporate,West,Distributor,Clothing,Jeans,7,73.99,0.0,517.93,356.45,161.48,Bank Transfer
+ORD00994,2025-12-09,CUST0256,31.0,Consumer,East,Distributor,Furniture,Office Chair,3,285.0,0.2,684.0,499.74,184.26,Debit Card
+ORD00995,2025-10-22,CUST0056,64.0,Small Business,East,Retail Store,Office Supplies,Folders,2,15.82,0.0,31.64,21.61,10.03,Cash
+ORD00996,2025-12-22,CUST0007,47.0,Consumer,North,Retail Store,Electronics,Keyboard,2,76.52,0.0,153.04,107.61,45.43,Bank Transfer
+ORD00997,2025-06-21,CUST0281,37.0,Consumer,Central,Retail Store,Furniture,Meeting Table,7,722.37,0.15,4298.1,2966.57,1331.53,Bank Transfer
+ORD00998,2025-10-21,CUST0201,33.0,Consumer,West,Retail Store,Clothing,Shirt,7,61.02,0.15,363.07,222.41,140.66,Bank Transfer
+ORD00999,2025-05-20,CUST0214,32.0,Corporate,East,Retail Store,Electronics,Monitor,7,399.09,0.02,2737.76,1874.0,863.76,Credit Card
+ORD01000,2025-07-17,CUST0104,32.0,Consumer,East,Distributor,Electronics,Smartphone,9,221.19,0.0,1990.71,1324.64,666.07,Debit Card
+ORD00026,2025-10-26,CUST0013,43.0,Corporate,Central,Retail Store,Office Supplies,Printer Paper,1,26.93,0.0,26.93,21.12,5.81,UPI
+ORD00151,2025-10-04,CUST0052,36.0,Corporate,Central,Retail Store,Clothing,T-Shirt,3,44.46,0.1,120.04,81.77,38.27,Debit Card
+ORD00701,2025-10-04,CUST0096,49.0,Corporate,West,Distributor,Electronics,Headphones,3,239.05,0.0,717.15,515.66,201.49,Credit Card
